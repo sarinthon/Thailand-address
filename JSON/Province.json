@@ -1,0 +1,387 @@
+[
+    {
+        "code": "81",
+        "nameTH": "กระบี่",
+        "nameEN": "Krabi"
+    },
+    {
+        "code": "10",
+        "nameTH": "กรุงเทพมหานคร",
+        "nameEN": "Bangkok"
+    },
+    {
+        "code": "71",
+        "nameTH": "กาญจนบุรี",
+        "nameEN": "Kanchanaburi"
+    },
+    {
+        "code": "46",
+        "nameTH": "กาฬสินธุ์",
+        "nameEN": "Kalasin"
+    },
+    {
+        "code": "62",
+        "nameTH": "กำแพงเพชร",
+        "nameEN": "Kamphaeng Phet"
+    },
+    {
+        "code": "40",
+        "nameTH": "ขอนแก่น",
+        "nameEN": "Khon Kaen"
+    },
+    {
+        "code": "22",
+        "nameTH": "จันทบุรี",
+        "nameEN": "Chanthaburi"
+    },
+    {
+        "code": "24",
+        "nameTH": "ฉะเชิงเทรา",
+        "nameEN": "Chachoengsao"
+    },
+    {
+        "code": "20",
+        "nameTH": "ชลบุรี",
+        "nameEN": "Chon Buri"
+    },
+    {
+        "code": "18",
+        "nameTH": "ชัยนาท",
+        "nameEN": "Chai Nat"
+    },
+    {
+        "code": "36",
+        "nameTH": "ชัยภูมิ",
+        "nameEN": "Chaiyaphum"
+    },
+    {
+        "code": "86",
+        "nameTH": "ชุมพร",
+        "nameEN": "Chumphon"
+    },
+    {
+        "code": "57",
+        "nameTH": "เชียงราย",
+        "nameEN": "Chiang Rai"
+    },
+    {
+        "code": "50",
+        "nameTH": "เชียงใหม่",
+        "nameEN": "Chiang Mai"
+    },
+    {
+        "code": "92",
+        "nameTH": "ตรัง",
+        "nameEN": "Trang"
+    },
+    {
+        "code": "23",
+        "nameTH": "ตราด",
+        "nameEN": "Trat"
+    },
+    {
+        "code": "63",
+        "nameTH": "ตาก",
+        "nameEN": "Tak"
+    },
+    {
+        "code": "26",
+        "nameTH": "นครนายก",
+        "nameEN": "Nakhon Nayok"
+    },
+    {
+        "code": "73",
+        "nameTH": "นครปฐม",
+        "nameEN": "Nakhon Pathom"
+    },
+    {
+        "code": "48",
+        "nameTH": "นครพนม",
+        "nameEN": "Nakhon Phanom"
+    },
+    {
+        "code": "30",
+        "nameTH": "นครราชสีมา",
+        "nameEN": "Nakhon Ratchasima"
+    },
+    {
+        "code": "80",
+        "nameTH": "นครศรีธรรมราช",
+        "nameEN": "Nakhon Si Thammarat"
+    },
+    {
+        "code": "60",
+        "nameTH": "นครสวรรค์",
+        "nameEN": "Nakhon Sawan"
+    },
+    {
+        "code": "12",
+        "nameTH": "นนทบุรี",
+        "nameEN": "Nonthaburi"
+    },
+    {
+        "code": "96",
+        "nameTH": "นราธิวาส",
+        "nameEN": "Narathiwat"
+    },
+    {
+        "code": "55",
+        "nameTH": "น่าน",
+        "nameEN": "Nan"
+    },
+    {
+        "code": "38",
+        "nameTH": "บึงกาฬ",
+        "nameEN": "Bueng Kan"
+    },
+    {
+        "code": "31",
+        "nameTH": "บุรีรัมย์",
+        "nameEN": "Buri Ram"
+    },
+    {
+        "code": "13",
+        "nameTH": "ปทุมธานี",
+        "nameEN": "Pathum Thani"
+    },
+    {
+        "code": "77",
+        "nameTH": "ประจวบคีรีขันธ์",
+        "nameEN": "Prachuap Khiri Khan"
+    },
+    {
+        "code": "25",
+        "nameTH": "ปราจีนบุรี",
+        "nameEN": "Prachin Buri"
+    },
+    {
+        "code": "94",
+        "nameTH": "ปัตตานี",
+        "nameEN": "Pattani"
+    },
+    {
+        "code": "14",
+        "nameTH": "พระนครศรีอยุธยา",
+        "nameEN": "Phra Nakhon Si Ayutthaya"
+    },
+    {
+        "code": "56",
+        "nameTH": "พะเยา",
+        "nameEN": "Phayao"
+    },
+    {
+        "code": "82",
+        "nameTH": "พังงา",
+        "nameEN": "Phang-nga"
+    },
+    {
+        "code": "93",
+        "nameTH": "พัทลุง",
+        "nameEN": "Phatthalung"
+    },
+    {
+        "code": "66",
+        "nameTH": "พิจิตร",
+        "nameEN": "Phichit"
+    },
+    {
+        "code": "65",
+        "nameTH": "พิษณุโลก",
+        "nameEN": "Phitsanulok"
+    },
+    {
+        "code": "76",
+        "nameTH": "เพชรบุรี",
+        "nameEN": "Phetchaburi"
+    },
+    {
+        "code": "67",
+        "nameTH": "เพชรบูรณ์",
+        "nameEN": "Phetchabun"
+    },
+    {
+        "code": "54",
+        "nameTH": "แพร่",
+        "nameEN": "Phrae"
+    },
+    {
+        "code": "83",
+        "nameTH": "ภูเก็ต",
+        "nameEN": "Phuket"
+    },
+    {
+        "code": "44",
+        "nameTH": "มหาสารคาม",
+        "nameEN": "Maha Sarakham"
+    },
+    {
+        "code": "49",
+        "nameTH": "มุกดาหาร",
+        "nameEN": "Mukdahan"
+    },
+    {
+        "code": "58",
+        "nameTH": "แม่ฮ่องสอน",
+        "nameEN": "Mae Hong Son"
+    },
+    {
+        "code": "35",
+        "nameTH": "ยโสธร",
+        "nameEN": "Yasothon"
+    },
+    {
+        "code": "95",
+        "nameTH": "ยะลา",
+        "nameEN": "Yala"
+    },
+    {
+        "code": "45",
+        "nameTH": "ร้อยเอ็ด",
+        "nameEN": "Roi Et"
+    },
+    {
+        "code": "85",
+        "nameTH": "ระนอง",
+        "nameEN": "Ranong"
+    },
+    {
+        "code": "21",
+        "nameTH": "ระยอง",
+        "nameEN": "Rayong"
+    },
+    {
+        "code": "70",
+        "nameTH": "ราชบุรี",
+        "nameEN": "Ratchaburi"
+    },
+    {
+        "code": "16",
+        "nameTH": "ลพบุรี",
+        "nameEN": "Lop Buri"
+    },
+    {
+        "code": "52",
+        "nameTH": "ลำปาง",
+        "nameEN": "Lampang"
+    },
+    {
+        "code": "51",
+        "nameTH": "ลำพูน",
+        "nameEN": "Lamphun"
+    },
+    {
+        "code": "42",
+        "nameTH": "เลย",
+        "nameEN": "Loei"
+    },
+    {
+        "code": "33",
+        "nameTH": "ศรีสะเกษ",
+        "nameEN": "Si Sa Ket"
+    },
+    {
+        "code": "47",
+        "nameTH": "สกลนคร",
+        "nameEN": "Sakon Nakhon"
+    },
+    {
+        "code": "90",
+        "nameTH": "สงขลา",
+        "nameEN": "Songkhla"
+    },
+    {
+        "code": "91",
+        "nameTH": "สตูล",
+        "nameEN": "Satun"
+    },
+    {
+        "code": "11",
+        "nameTH": "สมุทรปราการ",
+        "nameEN": "Samut Prakarn"
+    },
+    {
+        "code": "75",
+        "nameTH": "สมุทรสงคราม",
+        "nameEN": "Samut Songkhram"
+    },
+    {
+        "code": "74",
+        "nameTH": "สมุทรสาคร",
+        "nameEN": "Samut Sakhon"
+    },
+    {
+        "code": "27",
+        "nameTH": "สระแก้ว",
+        "nameEN": "Sa kaeo"
+    },
+    {
+        "code": "19",
+        "nameTH": "สระบุรี",
+        "nameEN": "Saraburi"
+    },
+    {
+        "code": "17",
+        "nameTH": "สิงห์บุรี",
+        "nameEN": "Sing Buri"
+    },
+    {
+        "code": "64",
+        "nameTH": "สุโขทัย",
+        "nameEN": "Sukhothai"
+    },
+    {
+        "code": "72",
+        "nameTH": "สุพรรณบุรี",
+        "nameEN": "Suphan Buri"
+    },
+    {
+        "code": "84",
+        "nameTH": "สุราษฎร์ธานี",
+        "nameEN": "Surat Thani"
+    },
+    {
+        "code": "32",
+        "nameTH": "สุรินทร์",
+        "nameEN": "Surin"
+    },
+    {
+        "code": "43",
+        "nameTH": "หนองคาย",
+        "nameEN": "Nong Khai"
+    },
+    {
+        "code": "39",
+        "nameTH": "หนองบัวลำภู",
+        "nameEN": "Nong Bua Lam Phu"
+    },
+    {
+        "code": "15",
+        "nameTH": "อ่างทอง",
+        "nameEN": "Ang Thong"
+    },
+    {
+        "code": "37",
+        "nameTH": "อำนาจเจริญ",
+        "nameEN": "Amnat Charoen"
+    },
+    {
+        "code": "41",
+        "nameTH": "อุดรธานี",
+        "nameEN": "Udon Thani"
+    },
+    {
+        "code": "53",
+        "nameTH": "อุตรดิตถ์",
+        "nameEN": "Uttaradit"
+    },
+    {
+        "code": "61",
+        "nameTH": "อุทัยธานี",
+        "nameEN": "Uthai Thani"
+    },
+    {
+        "code": "34",
+        "nameTH": "อุบลราชธานี",
+        "nameEN": "Ubon Ratchathani"
+    }
+]

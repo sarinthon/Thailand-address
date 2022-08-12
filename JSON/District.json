@@ -1,0 +1,5570 @@
+[
+    {
+        "code": "1001",
+        "provinceCode": "10",
+        "nameTH": "พระนคร",
+        "nameEN": "Phra Nakhon"
+    },
+    {
+        "code": "1002",
+        "provinceCode": "10",
+        "nameTH": "ดุสิต",
+        "nameEN": "Dusit"
+    },
+    {
+        "code": "1003",
+        "provinceCode": "10",
+        "nameTH": "หนองจอก",
+        "nameEN": "Nong Chok"
+    },
+    {
+        "code": "1004",
+        "provinceCode": "10",
+        "nameTH": "บางรัก",
+        "nameEN": "Bang Rak"
+    },
+    {
+        "code": "1005",
+        "provinceCode": "10",
+        "nameTH": "บางเขน",
+        "nameEN": "Bang Khen"
+    },
+    {
+        "code": "1006",
+        "provinceCode": "10",
+        "nameTH": "บางกะปิ",
+        "nameEN": "Bang Kapi"
+    },
+    {
+        "code": "1007",
+        "provinceCode": "10",
+        "nameTH": "ปทุมวัน",
+        "nameEN": "Pathum Wan"
+    },
+    {
+        "code": "1008",
+        "provinceCode": "10",
+        "nameTH": "ป้อมปราบศัตรูพ่าย",
+        "nameEN": "Pom Prap Sattruphai"
+    },
+    {
+        "code": "1009",
+        "provinceCode": "10",
+        "nameTH": "พระโขนง",
+        "nameEN": "Phra Khanong"
+    },
+    {
+        "code": "1010",
+        "provinceCode": "10",
+        "nameTH": "มีนบุรี",
+        "nameEN": "Min Buri"
+    },
+    {
+        "code": "1011",
+        "provinceCode": "10",
+        "nameTH": "ลาดกระบัง",
+        "nameEN": "Lat Krabang"
+    },
+    {
+        "code": "1012",
+        "provinceCode": "10",
+        "nameTH": "ยานนาวา",
+        "nameEN": "Yannawa"
+    },
+    {
+        "code": "1013",
+        "provinceCode": "10",
+        "nameTH": "สัมพันธวงศ์",
+        "nameEN": "Samphanthawong"
+    },
+    {
+        "code": "1014",
+        "provinceCode": "10",
+        "nameTH": "พญาไท",
+        "nameEN": "Phaya Thai"
+    },
+    {
+        "code": "1015",
+        "provinceCode": "10",
+        "nameTH": "ธนบุรี",
+        "nameEN": "Thon Buri"
+    },
+    {
+        "code": "1016",
+        "provinceCode": "10",
+        "nameTH": "บางกอกใหญ่",
+        "nameEN": "Bangkok Yai"
+    },
+    {
+        "code": "1017",
+        "provinceCode": "10",
+        "nameTH": "ห้วยขวาง",
+        "nameEN": "Huai Khwang"
+    },
+    {
+        "code": "1018",
+        "provinceCode": "10",
+        "nameTH": "คลองสาน",
+        "nameEN": "Khlong San"
+    },
+    {
+        "code": "1019",
+        "provinceCode": "10",
+        "nameTH": "ตลิ่งชัน",
+        "nameEN": "Taling Chan"
+    },
+    {
+        "code": "1020",
+        "provinceCode": "10",
+        "nameTH": "บางกอกน้อย",
+        "nameEN": "Bangkok Noi"
+    },
+    {
+        "code": "1021",
+        "provinceCode": "10",
+        "nameTH": "บางขุนเทียน",
+        "nameEN": "Bang Khun Thian"
+    },
+    {
+        "code": "1022",
+        "provinceCode": "10",
+        "nameTH": "ภาษีเจริญ",
+        "nameEN": "Phasi Charoen"
+    },
+    {
+        "code": "1023",
+        "provinceCode": "10",
+        "nameTH": "หนองแขม",
+        "nameEN": "Nong Khaem"
+    },
+    {
+        "code": "1024",
+        "provinceCode": "10",
+        "nameTH": "ราษฎร์บูรณะ",
+        "nameEN": "Rat Burana"
+    },
+    {
+        "code": "1025",
+        "provinceCode": "10",
+        "nameTH": "บางพลัด",
+        "nameEN": "Bang Phlat"
+    },
+    {
+        "code": "1026",
+        "provinceCode": "10",
+        "nameTH": "ดินแดง",
+        "nameEN": "Din Daeng"
+    },
+    {
+        "code": "1027",
+        "provinceCode": "10",
+        "nameTH": "บึงกุ่ม",
+        "nameEN": "Bung Kum"
+    },
+    {
+        "code": "1028",
+        "provinceCode": "10",
+        "nameTH": "สาทร",
+        "nameEN": "Sa Thon"
+    },
+    {
+        "code": "1029",
+        "provinceCode": "10",
+        "nameTH": "บางซื่อ",
+        "nameEN": "Bang Sue"
+    },
+    {
+        "code": "1030",
+        "provinceCode": "10",
+        "nameTH": "จตุจักร",
+        "nameEN": "Chatuchak"
+    },
+    {
+        "code": "1031",
+        "provinceCode": "10",
+        "nameTH": "บางคอแหลม",
+        "nameEN": "Bang Kho Laem"
+    },
+    {
+        "code": "1032",
+        "provinceCode": "10",
+        "nameTH": "ประเวศ",
+        "nameEN": "Prawet"
+    },
+    {
+        "code": "1033",
+        "provinceCode": "10",
+        "nameTH": "คลองเตย",
+        "nameEN": "Khlong Toei"
+    },
+    {
+        "code": "1034",
+        "provinceCode": "10",
+        "nameTH": "สวนหลวง",
+        "nameEN": "Suan Luang"
+    },
+    {
+        "code": "1035",
+        "provinceCode": "10",
+        "nameTH": "จอมทอง",
+        "nameEN": "Chom Thong"
+    },
+    {
+        "code": "1036",
+        "provinceCode": "10",
+        "nameTH": "ดอนเมือง",
+        "nameEN": "Don Mueang"
+    },
+    {
+        "code": "1037",
+        "provinceCode": "10",
+        "nameTH": "ราชเทวี",
+        "nameEN": "Rat Thewi"
+    },
+    {
+        "code": "1038",
+        "provinceCode": "10",
+        "nameTH": "ลาดพร้าว",
+        "nameEN": "Lat Phrao"
+    },
+    {
+        "code": "1039",
+        "provinceCode": "10",
+        "nameTH": "วัฒนา",
+        "nameEN": "Watthana"
+    },
+    {
+        "code": "1040",
+        "provinceCode": "10",
+        "nameTH": "บางแค",
+        "nameEN": "Bang Khae"
+    },
+    {
+        "code": "1041",
+        "provinceCode": "10",
+        "nameTH": "หลักสี่",
+        "nameEN": "Lak Si"
+    },
+    {
+        "code": "1042",
+        "provinceCode": "10",
+        "nameTH": "สายไหม",
+        "nameEN": "Sai Mai"
+    },
+    {
+        "code": "1043",
+        "provinceCode": "10",
+        "nameTH": "คันนายาว",
+        "nameEN": "Khanna Yao"
+    },
+    {
+        "code": "1044",
+        "provinceCode": "10",
+        "nameTH": "สะพานสูง",
+        "nameEN": "Saphan Sung"
+    },
+    {
+        "code": "1045",
+        "provinceCode": "10",
+        "nameTH": "วังทองหลาง",
+        "nameEN": "Wang Thong Lang"
+    },
+    {
+        "code": "1046",
+        "provinceCode": "10",
+        "nameTH": "คลองสามวา",
+        "nameEN": "Khlong Sam Wa"
+    },
+    {
+        "code": "1047",
+        "provinceCode": "10",
+        "nameTH": "บางนา",
+        "nameEN": "Bang Na"
+    },
+    {
+        "code": "1048",
+        "provinceCode": "10",
+        "nameTH": "ทวีวัฒนา",
+        "nameEN": "Thawi Watthana"
+    },
+    {
+        "code": "1049",
+        "provinceCode": "10",
+        "nameTH": "ทุ่งครุ",
+        "nameEN": "Thung Khu"
+    },
+    {
+        "code": "1050",
+        "provinceCode": "10",
+        "nameTH": "บางบอน",
+        "nameEN": "Bang Bon"
+    },
+    {
+        "code": "1101",
+        "provinceCode": "11",
+        "nameTH": "เมืองสมุทรปราการ",
+        "nameEN": "Mueang Samut Prakan"
+    },
+    {
+        "code": "1102",
+        "provinceCode": "11",
+        "nameTH": "บางบ่อ",
+        "nameEN": "Bang Bo"
+    },
+    {
+        "code": "1103",
+        "provinceCode": "11",
+        "nameTH": "บางพลี",
+        "nameEN": "Bang Phli"
+    },
+    {
+        "code": "1104",
+        "provinceCode": "11",
+        "nameTH": "พระประแดง",
+        "nameEN": "Phra Pradaeng"
+    },
+    {
+        "code": "1105",
+        "provinceCode": "11",
+        "nameTH": "พระสมุทรเจดีย์",
+        "nameEN": "Phra Samut Chedi"
+    },
+    {
+        "code": "1106",
+        "provinceCode": "11",
+        "nameTH": "บางเสาธง",
+        "nameEN": "Bang Sao Thong"
+    },
+    {
+        "code": "1201",
+        "provinceCode": "12",
+        "nameTH": "เมืองนนทบุรี",
+        "nameEN": "Mueang Nonthaburi"
+    },
+    {
+        "code": "1202",
+        "provinceCode": "12",
+        "nameTH": "บางกรวย",
+        "nameEN": "Bang Kruai"
+    },
+    {
+        "code": "1203",
+        "provinceCode": "12",
+        "nameTH": "บางใหญ่",
+        "nameEN": "Bang Yai"
+    },
+    {
+        "code": "1204",
+        "provinceCode": "12",
+        "nameTH": "บางบัวทอง",
+        "nameEN": "Bang Bua Thong"
+    },
+    {
+        "code": "1205",
+        "provinceCode": "12",
+        "nameTH": "ไทรน้อย",
+        "nameEN": "Sai Noi"
+    },
+    {
+        "code": "1206",
+        "provinceCode": "12",
+        "nameTH": "ปากเกร็ด",
+        "nameEN": "Pak Kret"
+    },
+    {
+        "code": "1301",
+        "provinceCode": "13",
+        "nameTH": "เมืองปทุมธานี",
+        "nameEN": "Mueang Pathum Thani"
+    },
+    {
+        "code": "1302",
+        "provinceCode": "13",
+        "nameTH": "คลองหลวง",
+        "nameEN": "khlong Luang"
+    },
+    {
+        "code": "1303",
+        "provinceCode": "13",
+        "nameTH": "ธัญบุรี",
+        "nameEN": "Thanyaburi"
+    },
+    {
+        "code": "1304",
+        "provinceCode": "13",
+        "nameTH": "หนองเสือ",
+        "nameEN": "Nong Suea"
+    },
+    {
+        "code": "1305",
+        "provinceCode": "13",
+        "nameTH": "ลาดหลุมแก้ว",
+        "nameEN": "Lat Lum Kaeo"
+    },
+    {
+        "code": "1306",
+        "provinceCode": "13",
+        "nameTH": "ลำลูกกา",
+        "nameEN": "Lam Luk Ka"
+    },
+    {
+        "code": "1307",
+        "provinceCode": "13",
+        "nameTH": "สามโคก",
+        "nameEN": "Sam Khok"
+    },
+    {
+        "code": "1401",
+        "provinceCode": "14",
+        "nameTH": "พระนครศรีอยุธยา",
+        "nameEN": "Phra Nakhon Si Ayutthaya"
+    },
+    {
+        "code": "1402",
+        "provinceCode": "14",
+        "nameTH": "ท่าเรือ",
+        "nameEN": "Tha Ruea"
+    },
+    {
+        "code": "1403",
+        "provinceCode": "14",
+        "nameTH": "นครหลวง",
+        "nameEN": "Nakhon Luang"
+    },
+    {
+        "code": "1404",
+        "provinceCode": "14",
+        "nameTH": "บางไทร",
+        "nameEN": "Bang Sai"
+    },
+    {
+        "code": "1405",
+        "provinceCode": "14",
+        "nameTH": "บางบาล",
+        "nameEN": "Bang Ban"
+    },
+    {
+        "code": "1406",
+        "provinceCode": "14",
+        "nameTH": "บางปะอิน",
+        "nameEN": "Bang Pa-in"
+    },
+    {
+        "code": "1407",
+        "provinceCode": "14",
+        "nameTH": "บางปะหัน",
+        "nameEN": "Bang Pahan"
+    },
+    {
+        "code": "1408",
+        "provinceCode": "14",
+        "nameTH": "ผักไห่",
+        "nameEN": "Phak Hai"
+    },
+    {
+        "code": "1409",
+        "provinceCode": "14",
+        "nameTH": "ภาชี",
+        "nameEN": "Phachi"
+    },
+    {
+        "code": "1410",
+        "provinceCode": "14",
+        "nameTH": "ลาดบัวหลวง",
+        "nameEN": "Lat Bua Luang"
+    },
+    {
+        "code": "1411",
+        "provinceCode": "14",
+        "nameTH": "วังน้อย",
+        "nameEN": "Wang Noi"
+    },
+    {
+        "code": "1412",
+        "provinceCode": "14",
+        "nameTH": "เสนา",
+        "nameEN": "Sena"
+    },
+    {
+        "code": "1413",
+        "provinceCode": "14",
+        "nameTH": "บางซ้าย",
+        "nameEN": "Bang Sai"
+    },
+    {
+        "code": "1414",
+        "provinceCode": "14",
+        "nameTH": "อุทัย",
+        "nameEN": "Uthai"
+    },
+    {
+        "code": "1415",
+        "provinceCode": "14",
+        "nameTH": "มหาราช",
+        "nameEN": "Maha Rat"
+    },
+    {
+        "code": "1416",
+        "provinceCode": "14",
+        "nameTH": "บ้านแพรก",
+        "nameEN": "Ban Phraek"
+    },
+    {
+        "code": "1501",
+        "provinceCode": "15",
+        "nameTH": "เมืองอ่างทอง",
+        "nameEN": "Mueang Ang Thong"
+    },
+    {
+        "code": "1502",
+        "provinceCode": "15",
+        "nameTH": "ไชโย",
+        "nameEN": "Chaiyo"
+    },
+    {
+        "code": "1503",
+        "provinceCode": "15",
+        "nameTH": "ป่าโมก",
+        "nameEN": "Pa Mok"
+    },
+    {
+        "code": "1504",
+        "provinceCode": "15",
+        "nameTH": "โพธิ์ทอง",
+        "nameEN": "Pho Thong"
+    },
+    {
+        "code": "1505",
+        "provinceCode": "15",
+        "nameTH": "แสวงหา",
+        "nameEN": "Sawaeng Ha"
+    },
+    {
+        "code": "1506",
+        "provinceCode": "15",
+        "nameTH": "วิเศษชัยชาญ",
+        "nameEN": "Wiset Chai Chan"
+    },
+    {
+        "code": "1507",
+        "provinceCode": "15",
+        "nameTH": "สามโก้",
+        "nameEN": "Samko"
+    },
+    {
+        "code": "1601",
+        "provinceCode": "16",
+        "nameTH": "เมืองลพบุรี",
+        "nameEN": "Mueang Lop Buri"
+    },
+    {
+        "code": "1602",
+        "provinceCode": "16",
+        "nameTH": "พัฒนานิคม",
+        "nameEN": "Phatthana Nikhom"
+    },
+    {
+        "code": "1603",
+        "provinceCode": "16",
+        "nameTH": "โคกสำโรง",
+        "nameEN": "Khok Samrong"
+    },
+    {
+        "code": "1604",
+        "provinceCode": "16",
+        "nameTH": "ชัยบาดาล",
+        "nameEN": "Chai Badan"
+    },
+    {
+        "code": "1605",
+        "provinceCode": "16",
+        "nameTH": "ท่าวุ้ง",
+        "nameEN": "Tha Wung"
+    },
+    {
+        "code": "1606",
+        "provinceCode": "16",
+        "nameTH": "บ้านหมี่",
+        "nameEN": "Ban Mi"
+    },
+    {
+        "code": "1607",
+        "provinceCode": "16",
+        "nameTH": "ท่าหลวง",
+        "nameEN": "Tha Luang"
+    },
+    {
+        "code": "1608",
+        "provinceCode": "16",
+        "nameTH": "สระโบสถ์",
+        "nameEN": "Sa Bot"
+    },
+    {
+        "code": "1609",
+        "provinceCode": "16",
+        "nameTH": "โคกเจริญ",
+        "nameEN": "Khok Charoen"
+    },
+    {
+        "code": "1610",
+        "provinceCode": "16",
+        "nameTH": "ลำสนธิ",
+        "nameEN": "Lam Sonthi"
+    },
+    {
+        "code": "1611",
+        "provinceCode": "16",
+        "nameTH": "หนองม่วง",
+        "nameEN": "Nong Muang"
+    },
+    {
+        "code": "1701",
+        "provinceCode": "17",
+        "nameTH": "เมืองสิงห์บุรี",
+        "nameEN": "Mueang Sing Buri"
+    },
+    {
+        "code": "1702",
+        "provinceCode": "17",
+        "nameTH": "บางระจัน",
+        "nameEN": "Bang Rachan"
+    },
+    {
+        "code": "1703",
+        "provinceCode": "17",
+        "nameTH": "ค่ายบางระจัน",
+        "nameEN": "Khai Bang Rachan"
+    },
+    {
+        "code": "1704",
+        "provinceCode": "17",
+        "nameTH": "พรหมบุรี",
+        "nameEN": "Phrom Buri"
+    },
+    {
+        "code": "1705",
+        "provinceCode": "17",
+        "nameTH": "ท่าช้าง",
+        "nameEN": "Tha Chang"
+    },
+    {
+        "code": "1706",
+        "provinceCode": "17",
+        "nameTH": "อินทร์บุรี",
+        "nameEN": "In Buri"
+    },
+    {
+        "code": "1801",
+        "provinceCode": "18",
+        "nameTH": "เมืองชัยนาท",
+        "nameEN": "Mueang Chai Nat"
+    },
+    {
+        "code": "1802",
+        "provinceCode": "18",
+        "nameTH": "มโนรมย์",
+        "nameEN": "Manorom"
+    },
+    {
+        "code": "1803",
+        "provinceCode": "18",
+        "nameTH": "วัดสิงห์",
+        "nameEN": "Wat Sing"
+    },
+    {
+        "code": "1804",
+        "provinceCode": "18",
+        "nameTH": "สรรพยา",
+        "nameEN": "Sapphaya"
+    },
+    {
+        "code": "1805",
+        "provinceCode": "18",
+        "nameTH": "สรรคบุรี",
+        "nameEN": "Sankhaburi"
+    },
+    {
+        "code": "1806",
+        "provinceCode": "18",
+        "nameTH": "หันคา",
+        "nameEN": "Hankha"
+    },
+    {
+        "code": "1807",
+        "provinceCode": "18",
+        "nameTH": "หนองมะโมง",
+        "nameEN": "Nong Mamong"
+    },
+    {
+        "code": "1808",
+        "provinceCode": "18",
+        "nameTH": "เนินขาม",
+        "nameEN": "Noen Kham"
+    },
+    {
+        "code": "1901",
+        "provinceCode": "19",
+        "nameTH": "เมืองสระบุรี",
+        "nameEN": "Mueang Saraburi"
+    },
+    {
+        "code": "1902",
+        "provinceCode": "19",
+        "nameTH": "แก่งคอย",
+        "nameEN": "Kaeng Khoi"
+    },
+    {
+        "code": "1903",
+        "provinceCode": "19",
+        "nameTH": "หนองแค",
+        "nameEN": "Nong Khae"
+    },
+    {
+        "code": "1904",
+        "provinceCode": "19",
+        "nameTH": "วิหารแดง",
+        "nameEN": "Wihan Daeng"
+    },
+    {
+        "code": "1905",
+        "provinceCode": "19",
+        "nameTH": "หนองแซง",
+        "nameEN": "Nong Saeng"
+    },
+    {
+        "code": "1906",
+        "provinceCode": "19",
+        "nameTH": "บ้านหมอ",
+        "nameEN": "Ban Mo"
+    },
+    {
+        "code": "1907",
+        "provinceCode": "19",
+        "nameTH": "ดอนพุด",
+        "nameEN": "Don Phut"
+    },
+    {
+        "code": "1908",
+        "provinceCode": "19",
+        "nameTH": "หนองโดน",
+        "nameEN": "Nong Don"
+    },
+    {
+        "code": "1909",
+        "provinceCode": "19",
+        "nameTH": "พระพุทธบาท",
+        "nameEN": "Phra Phutthabat"
+    },
+    {
+        "code": "1910",
+        "provinceCode": "19",
+        "nameTH": "เสาไห้",
+        "nameEN": "Sao Hai"
+    },
+    {
+        "code": "1911",
+        "provinceCode": "19",
+        "nameTH": "มวกเหล็ก",
+        "nameEN": "Muak Lek"
+    },
+    {
+        "code": "1912",
+        "provinceCode": "19",
+        "nameTH": "วังม่วง",
+        "nameEN": "Wang Muang"
+    },
+    {
+        "code": "1913",
+        "provinceCode": "19",
+        "nameTH": "เฉลิมพระเกียรติ",
+        "nameEN": "Chaloem Phra Kiet"
+    },
+    {
+        "code": "2001",
+        "provinceCode": "20",
+        "nameTH": "เมืองชลบุรี",
+        "nameEN": "Mueang Chon Buri"
+    },
+    {
+        "code": "2002",
+        "provinceCode": "20",
+        "nameTH": "บ้านบึง",
+        "nameEN": "Ban Bueng"
+    },
+    {
+        "code": "2003",
+        "provinceCode": "20",
+        "nameTH": "หนองใหญ่",
+        "nameEN": "Nong Yai"
+    },
+    {
+        "code": "2004",
+        "provinceCode": "20",
+        "nameTH": "บางละมุง",
+        "nameEN": "Bang Lamung"
+    },
+    {
+        "code": "2005",
+        "provinceCode": "20",
+        "nameTH": "พานทอง",
+        "nameEN": "Phan Thong"
+    },
+    {
+        "code": "2006",
+        "provinceCode": "20",
+        "nameTH": "พนัสนิคม",
+        "nameEN": "Phanat Nikhom"
+    },
+    {
+        "code": "2007",
+        "provinceCode": "20",
+        "nameTH": "ศรีราชา",
+        "nameEN": "Si Racha"
+    },
+    {
+        "code": "2008",
+        "provinceCode": "20",
+        "nameTH": "เกาะสีชัง",
+        "nameEN": "Ko Sichang"
+    },
+    {
+        "code": "2009",
+        "provinceCode": "20",
+        "nameTH": "สัตหีบ",
+        "nameEN": "Sattahip"
+    },
+    {
+        "code": "2010",
+        "provinceCode": "20",
+        "nameTH": "บ่อทอง",
+        "nameEN": "Bo Thong"
+    },
+    {
+        "code": "2011",
+        "provinceCode": "20",
+        "nameTH": "เกาะจันทร์",
+        "nameEN": "Ko Chan"
+    },
+    {
+        "code": "2101",
+        "provinceCode": "21",
+        "nameTH": "เมืองระยอง",
+        "nameEN": "Mueang Rayong"
+    },
+    {
+        "code": "2102",
+        "provinceCode": "21",
+        "nameTH": "บ้านฉาง",
+        "nameEN": "Ban Chang"
+    },
+    {
+        "code": "2103",
+        "provinceCode": "21",
+        "nameTH": "แกลง",
+        "nameEN": "Klaeng"
+    },
+    {
+        "code": "2104",
+        "provinceCode": "21",
+        "nameTH": "วังจันทร์",
+        "nameEN": "Wang Chan"
+    },
+    {
+        "code": "2105",
+        "provinceCode": "21",
+        "nameTH": "บ้านค่าย",
+        "nameEN": "Ban Khai"
+    },
+    {
+        "code": "2106",
+        "provinceCode": "21",
+        "nameTH": "ปลวกแดง",
+        "nameEN": "Pluak Daeng"
+    },
+    {
+        "code": "2107",
+        "provinceCode": "21",
+        "nameTH": "เขาชะเมา",
+        "nameEN": "Khao Chamao"
+    },
+    {
+        "code": "2108",
+        "provinceCode": "21",
+        "nameTH": "นิคมพัฒนา",
+        "nameEN": "Nikhom Phatthana"
+    },
+    {
+        "code": "2201",
+        "provinceCode": "22",
+        "nameTH": "เมืองจันทบุรี",
+        "nameEN": "Mueang Chanthaburi"
+    },
+    {
+        "code": "2202",
+        "provinceCode": "22",
+        "nameTH": "ขลุง",
+        "nameEN": "Khlung"
+    },
+    {
+        "code": "2203",
+        "provinceCode": "22",
+        "nameTH": "ท่าใหม่",
+        "nameEN": "Tha Mai"
+    },
+    {
+        "code": "2204",
+        "provinceCode": "22",
+        "nameTH": "โป่งน้ำร้อน",
+        "nameEN": "Pong Nam Ron"
+    },
+    {
+        "code": "2205",
+        "provinceCode": "22",
+        "nameTH": "มะขาม",
+        "nameEN": "Makham"
+    },
+    {
+        "code": "2206",
+        "provinceCode": "22",
+        "nameTH": "แหลมสิงห์",
+        "nameEN": "Laem Sing"
+    },
+    {
+        "code": "2207",
+        "provinceCode": "22",
+        "nameTH": "สอยดาว",
+        "nameEN": "Soi Dao"
+    },
+    {
+        "code": "2208",
+        "provinceCode": "22",
+        "nameTH": "แก่งหางแมว",
+        "nameEN": "Kaeng Hang Maeo"
+    },
+    {
+        "code": "2209",
+        "provinceCode": "22",
+        "nameTH": "นายายอาม",
+        "nameEN": "Na Yai Am"
+    },
+    {
+        "code": "2210",
+        "provinceCode": "22",
+        "nameTH": "เขาคิชฌกูฏ",
+        "nameEN": "Khao Khitchakut"
+    },
+    {
+        "code": "2301",
+        "provinceCode": "23",
+        "nameTH": "เมืองตราด",
+        "nameEN": "Mueang Trat"
+    },
+    {
+        "code": "2302",
+        "provinceCode": "23",
+        "nameTH": "คลองใหญ่",
+        "nameEN": "Khlong Yai"
+    },
+    {
+        "code": "2303",
+        "provinceCode": "23",
+        "nameTH": "เขาสมิง",
+        "nameEN": "Khao Saming"
+    },
+    {
+        "code": "2304",
+        "provinceCode": "23",
+        "nameTH": "บ่อไร่",
+        "nameEN": "Bo Rai"
+    },
+    {
+        "code": "2305",
+        "provinceCode": "23",
+        "nameTH": "แหลมงอบ",
+        "nameEN": "Laem Ngop"
+    },
+    {
+        "code": "2306",
+        "provinceCode": "23",
+        "nameTH": "เกาะกูด",
+        "nameEN": "Ko Kut"
+    },
+    {
+        "code": "2307",
+        "provinceCode": "23",
+        "nameTH": "เกาะช้าง",
+        "nameEN": "Ko Chang"
+    },
+    {
+        "code": "2401",
+        "provinceCode": "24",
+        "nameTH": "เมืองฉะเชิงเทรา",
+        "nameEN": "Mueang Chachoengsao"
+    },
+    {
+        "code": "2402",
+        "provinceCode": "24",
+        "nameTH": "บางคล้า",
+        "nameEN": "Bang Khla"
+    },
+    {
+        "code": "2403",
+        "provinceCode": "24",
+        "nameTH": "บางน้ำเปรี้ยว",
+        "nameEN": "Bang Nam Priao"
+    },
+    {
+        "code": "2404",
+        "provinceCode": "24",
+        "nameTH": "บางปะกง",
+        "nameEN": "Bang Pakong"
+    },
+    {
+        "code": "2405",
+        "provinceCode": "24",
+        "nameTH": "บ้านโพธิ์",
+        "nameEN": "Ban Pho"
+    },
+    {
+        "code": "2406",
+        "provinceCode": "24",
+        "nameTH": "พนมสารคาม",
+        "nameEN": "Phanom Sarakham"
+    },
+    {
+        "code": "2407",
+        "provinceCode": "24",
+        "nameTH": "ราชสาส์น",
+        "nameEN": "Ratchasan"
+    },
+    {
+        "code": "2408",
+        "provinceCode": "24",
+        "nameTH": "สนามชัยเขต",
+        "nameEN": "Sanam Chai Khet"
+    },
+    {
+        "code": "2409",
+        "provinceCode": "24",
+        "nameTH": "แปลงยาว",
+        "nameEN": "Pleang Yao"
+    },
+    {
+        "code": "2410",
+        "provinceCode": "24",
+        "nameTH": "ท่าตะเกียบ",
+        "nameEN": "Tha Takiap"
+    },
+    {
+        "code": "2411",
+        "provinceCode": "24",
+        "nameTH": "คลองเขื่อน",
+        "nameEN": "Khlong Khuean"
+    },
+    {
+        "code": "2501",
+        "provinceCode": "25",
+        "nameTH": "เมืองปราจีนบุรี",
+        "nameEN": "Mueang Prachin Buri"
+    },
+    {
+        "code": "2502",
+        "provinceCode": "25",
+        "nameTH": "กบินทร์บุรี",
+        "nameEN": "Kabin Buri"
+    },
+    {
+        "code": "2503",
+        "provinceCode": "25",
+        "nameTH": "นาดี",
+        "nameEN": "Na Di"
+    },
+    {
+        "code": "2504",
+        "provinceCode": "25",
+        "nameTH": "บ้านสร้าง",
+        "nameEN": "Ban Sang"
+    },
+    {
+        "code": "2505",
+        "provinceCode": "25",
+        "nameTH": "ประจันตคาม",
+        "nameEN": "Prachantakham"
+    },
+    {
+        "code": "2506",
+        "provinceCode": "25",
+        "nameTH": "ศรีมหาโพธิ",
+        "nameEN": "Si Maha Phot"
+    },
+    {
+        "code": "2507",
+        "provinceCode": "25",
+        "nameTH": "ศรีมโหสถ",
+        "nameEN": "Si Mahosot"
+    },
+    {
+        "code": "2601",
+        "provinceCode": "26",
+        "nameTH": "เมืองนครนายก",
+        "nameEN": "Mueang Nakhon Nayok"
+    },
+    {
+        "code": "2602",
+        "provinceCode": "26",
+        "nameTH": "ปากพลี",
+        "nameEN": "Pak Phli"
+    },
+    {
+        "code": "2603",
+        "provinceCode": "26",
+        "nameTH": "บ้านนา",
+        "nameEN": "Ban Na"
+    },
+    {
+        "code": "2604",
+        "provinceCode": "26",
+        "nameTH": "องครักษ์",
+        "nameEN": "Ongkharak"
+    },
+    {
+        "code": "2701",
+        "provinceCode": "27",
+        "nameTH": "เมืองสระแก้ว",
+        "nameEN": "Mueang Sa Kaeo"
+    },
+    {
+        "code": "2702",
+        "provinceCode": "27",
+        "nameTH": "คลองหาด",
+        "nameEN": "Khlong Hat"
+    },
+    {
+        "code": "2703",
+        "provinceCode": "27",
+        "nameTH": "ตาพระยา",
+        "nameEN": "Ta Phraya"
+    },
+    {
+        "code": "2704",
+        "provinceCode": "27",
+        "nameTH": "วังน้ำเย็น",
+        "nameEN": "Wang Nam Yen"
+    },
+    {
+        "code": "2705",
+        "provinceCode": "27",
+        "nameTH": "วัฒนานคร",
+        "nameEN": "Watthana Nakhon"
+    },
+    {
+        "code": "2706",
+        "provinceCode": "27",
+        "nameTH": "อรัญประเทศ",
+        "nameEN": "Aranyaprathet"
+    },
+    {
+        "code": "2707",
+        "provinceCode": "27",
+        "nameTH": "เขาฉกรรจ์",
+        "nameEN": "Khao Chakan"
+    },
+    {
+        "code": "2708",
+        "provinceCode": "27",
+        "nameTH": "โคกสูง",
+        "nameEN": "Khok Sung"
+    },
+    {
+        "code": "2709",
+        "provinceCode": "27",
+        "nameTH": "วังสมบูรณ์",
+        "nameEN": "Wang Sombun"
+    },
+    {
+        "code": "3001",
+        "provinceCode": "30",
+        "nameTH": "เมืองนครราชสีมา",
+        "nameEN": "Mueang Nakhon Ratchasima"
+    },
+    {
+        "code": "3002",
+        "provinceCode": "30",
+        "nameTH": "ครบุรี",
+        "nameEN": "Khon Buri"
+    },
+    {
+        "code": "3003",
+        "provinceCode": "30",
+        "nameTH": "เสิงสาง",
+        "nameEN": "Soeng Sang"
+    },
+    {
+        "code": "3004",
+        "provinceCode": "30",
+        "nameTH": "คง",
+        "nameEN": "Khong"
+    },
+    {
+        "code": "3005",
+        "provinceCode": "30",
+        "nameTH": "บ้านเหลื่อม",
+        "nameEN": "Ban Lueam"
+    },
+    {
+        "code": "3006",
+        "provinceCode": "30",
+        "nameTH": "จักราช",
+        "nameEN": "Chakkarat"
+    },
+    {
+        "code": "3007",
+        "provinceCode": "30",
+        "nameTH": "โชคชัย",
+        "nameEN": "Chok Chai"
+    },
+    {
+        "code": "3008",
+        "provinceCode": "30",
+        "nameTH": "ด่านขุนทด",
+        "nameEN": "Dan Khun Thot"
+    },
+    {
+        "code": "3009",
+        "provinceCode": "30",
+        "nameTH": "โนนไทย",
+        "nameEN": "Non Thai"
+    },
+    {
+        "code": "3010",
+        "provinceCode": "30",
+        "nameTH": "โนนสูง",
+        "nameEN": "Non Sung"
+    },
+    {
+        "code": "3011",
+        "provinceCode": "30",
+        "nameTH": "ขามสะแกแสง",
+        "nameEN": "Kham Sakaesaeng"
+    },
+    {
+        "code": "3012",
+        "provinceCode": "30",
+        "nameTH": "บัวใหญ่",
+        "nameEN": "Bua Yai"
+    },
+    {
+        "code": "3013",
+        "provinceCode": "30",
+        "nameTH": "ประทาย",
+        "nameEN": "Prathai"
+    },
+    {
+        "code": "3014",
+        "provinceCode": "30",
+        "nameTH": "ปักธงชัย",
+        "nameEN": "Pak Thong Chai"
+    },
+    {
+        "code": "3015",
+        "provinceCode": "30",
+        "nameTH": "พิมาย",
+        "nameEN": "Phimai"
+    },
+    {
+        "code": "3016",
+        "provinceCode": "30",
+        "nameTH": "ห้วยแถลง",
+        "nameEN": "Huai Thalaeng"
+    },
+    {
+        "code": "3017",
+        "provinceCode": "30",
+        "nameTH": "ชุมพวง",
+        "nameEN": "Chum Phuang"
+    },
+    {
+        "code": "3018",
+        "provinceCode": "30",
+        "nameTH": "สูงเนิน",
+        "nameEN": "Sung Noen"
+    },
+    {
+        "code": "3019",
+        "provinceCode": "30",
+        "nameTH": "ขามทะเลสอ",
+        "nameEN": "Kham Thale So"
+    },
+    {
+        "code": "3020",
+        "provinceCode": "30",
+        "nameTH": "สีคิ้ว",
+        "nameEN": "Si Khio"
+    },
+    {
+        "code": "3021",
+        "provinceCode": "30",
+        "nameTH": "ปากช่อง",
+        "nameEN": "Pak Chong"
+    },
+    {
+        "code": "3022",
+        "provinceCode": "30",
+        "nameTH": "หนองบุญมาก",
+        "nameEN": "Nong Bunmak"
+    },
+    {
+        "code": "3023",
+        "provinceCode": "30",
+        "nameTH": "แก้งสนามนาง",
+        "nameEN": "Kaeng Sanam Nang"
+    },
+    {
+        "code": "3024",
+        "provinceCode": "30",
+        "nameTH": "โนนแดง",
+        "nameEN": "Non Daeng"
+    },
+    {
+        "code": "3025",
+        "provinceCode": "30",
+        "nameTH": "วังน้ำเขียว",
+        "nameEN": "Wang Nam Khiao"
+    },
+    {
+        "code": "3026",
+        "provinceCode": "30",
+        "nameTH": "เทพารักษ์",
+        "nameEN": "Thepharak"
+    },
+    {
+        "code": "3027",
+        "provinceCode": "30",
+        "nameTH": "เมืองยาง",
+        "nameEN": "Mueang Yang"
+    },
+    {
+        "code": "3028",
+        "provinceCode": "30",
+        "nameTH": "พระทองคำ",
+        "nameEN": "Phra Thong Kham"
+    },
+    {
+        "code": "3029",
+        "provinceCode": "30",
+        "nameTH": "ลำทะเมนชัย",
+        "nameEN": "Lamtaman Chai"
+    },
+    {
+        "code": "3030",
+        "provinceCode": "30",
+        "nameTH": "บัวลาย",
+        "nameEN": "Bua Lai"
+    },
+    {
+        "code": "3031",
+        "provinceCode": "30",
+        "nameTH": "สีดา",
+        "nameEN": "Sida"
+    },
+    {
+        "code": "3032",
+        "provinceCode": "30",
+        "nameTH": "เฉลิมพระเกียรติ",
+        "nameEN": "Chaloem Phra Kiet"
+    },
+    {
+        "code": "3101",
+        "provinceCode": "31",
+        "nameTH": "เมืองบุรีรัมย์",
+        "nameEN": "Mueang Buri Ram"
+    },
+    {
+        "code": "3102",
+        "provinceCode": "31",
+        "nameTH": "คูเมือง",
+        "nameEN": "Khu Mueang"
+    },
+    {
+        "code": "3103",
+        "provinceCode": "31",
+        "nameTH": "กระสัง",
+        "nameEN": "Krasang"
+    },
+    {
+        "code": "3104",
+        "provinceCode": "31",
+        "nameTH": "นางรอง",
+        "nameEN": "Nang Rong"
+    },
+    {
+        "code": "3105",
+        "provinceCode": "31",
+        "nameTH": "หนองกี่",
+        "nameEN": "Nong Ki"
+    },
+    {
+        "code": "3106",
+        "provinceCode": "31",
+        "nameTH": "ละหานทราย",
+        "nameEN": "Lahan Sai"
+    },
+    {
+        "code": "3107",
+        "provinceCode": "31",
+        "nameTH": "ประโคนชัย",
+        "nameEN": "Prakhon Chai"
+    },
+    {
+        "code": "3108",
+        "provinceCode": "31",
+        "nameTH": "บ้านกรวด",
+        "nameEN": "Ban Kruat"
+    },
+    {
+        "code": "3109",
+        "provinceCode": "31",
+        "nameTH": "พุทไธสง",
+        "nameEN": "Phutthaisong"
+    },
+    {
+        "code": "3110",
+        "provinceCode": "31",
+        "nameTH": "ลำปลายมาศ",
+        "nameEN": "Lam Plai Mat"
+    },
+    {
+        "code": "3111",
+        "provinceCode": "31",
+        "nameTH": "สตึก",
+        "nameEN": "Satuek"
+    },
+    {
+        "code": "3112",
+        "provinceCode": "31",
+        "nameTH": "ปะคำ",
+        "nameEN": "Pakham"
+    },
+    {
+        "code": "3113",
+        "provinceCode": "31",
+        "nameTH": "นาโพธิ์",
+        "nameEN": "Na Pho"
+    },
+    {
+        "code": "3114",
+        "provinceCode": "31",
+        "nameTH": "หนองหงส์",
+        "nameEN": "Nong Hong"
+    },
+    {
+        "code": "3115",
+        "provinceCode": "31",
+        "nameTH": "พลับพลาชัย",
+        "nameEN": "Phlapphla Chai"
+    },
+    {
+        "code": "3116",
+        "provinceCode": "31",
+        "nameTH": "ห้วยราช",
+        "nameEN": "Huai Rat"
+    },
+    {
+        "code": "3117",
+        "provinceCode": "31",
+        "nameTH": "โนนสุวรรณ",
+        "nameEN": "Non Din Daeng"
+    },
+    {
+        "code": "3118",
+        "provinceCode": "31",
+        "nameTH": "ชำนิ",
+        "nameEN": "Chamni"
+    },
+    {
+        "code": "3119",
+        "provinceCode": "31",
+        "nameTH": "บ้านใหม่ไชยพจน์",
+        "nameEN": "Ban Mai Chaiyaphot"
+    },
+    {
+        "code": "3120",
+        "provinceCode": "31",
+        "nameTH": "โนนดินแดง",
+        "nameEN": "Non Din Daeng"
+    },
+    {
+        "code": "3121",
+        "provinceCode": "31",
+        "nameTH": "บ้านด่าน",
+        "nameEN": "Ban Dan"
+    },
+    {
+        "code": "3122",
+        "provinceCode": "31",
+        "nameTH": "แคนดง",
+        "nameEN": "Khaen Dong"
+    },
+    {
+        "code": "3123",
+        "provinceCode": "31",
+        "nameTH": "เฉลิมพระเกียรติ",
+        "nameEN": "Chaloem Phra Kiet"
+    },
+    {
+        "code": "3201",
+        "provinceCode": "32",
+        "nameTH": "เมืองสุรินทร์",
+        "nameEN": "Mueang Surin"
+    },
+    {
+        "code": "3202",
+        "provinceCode": "32",
+        "nameTH": "ชุมพลบุรี",
+        "nameEN": "Chumphon Buri"
+    },
+    {
+        "code": "3203",
+        "provinceCode": "32",
+        "nameTH": "ท่าตูม",
+        "nameEN": "Tha Tum"
+    },
+    {
+        "code": "3204",
+        "provinceCode": "32",
+        "nameTH": "จอมพระ",
+        "nameEN": "Chom Phra"
+    },
+    {
+        "code": "3205",
+        "provinceCode": "32",
+        "nameTH": "ปราสาท",
+        "nameEN": "Prasat"
+    },
+    {
+        "code": "3206",
+        "provinceCode": "32",
+        "nameTH": "กาบเชิง",
+        "nameEN": "Kap Choeng"
+    },
+    {
+        "code": "3207",
+        "provinceCode": "32",
+        "nameTH": "รัตนบุรี",
+        "nameEN": "Rattanaburi"
+    },
+    {
+        "code": "3208",
+        "provinceCode": "32",
+        "nameTH": "สนม",
+        "nameEN": "Sanom"
+    },
+    {
+        "code": "3209",
+        "provinceCode": "32",
+        "nameTH": "ศีขรภูมิ",
+        "nameEN": "Sikhoraphum"
+    },
+    {
+        "code": "3210",
+        "provinceCode": "32",
+        "nameTH": "สังขะ",
+        "nameEN": "Sangkha"
+    },
+    {
+        "code": "3211",
+        "provinceCode": "32",
+        "nameTH": "ลำดวน",
+        "nameEN": "Lamduan"
+    },
+    {
+        "code": "3212",
+        "provinceCode": "32",
+        "nameTH": "สำโรงทาบ",
+        "nameEN": "Samrong Thap"
+    },
+    {
+        "code": "3213",
+        "provinceCode": "32",
+        "nameTH": "บัวเชด",
+        "nameEN": "Buachet"
+    },
+    {
+        "code": "3214",
+        "provinceCode": "32",
+        "nameTH": "พนมดงรัก",
+        "nameEN": "Phanom Dong Rak"
+    },
+    {
+        "code": "3215",
+        "provinceCode": "32",
+        "nameTH": "ศรีณรงค์",
+        "nameEN": "Si Narong"
+    },
+    {
+        "code": "3216",
+        "provinceCode": "32",
+        "nameTH": "เขวาสินรินทร์",
+        "nameEN": "Khwao Sinarin"
+    },
+    {
+        "code": "3217",
+        "provinceCode": "32",
+        "nameTH": "โนนนารายณ์",
+        "nameEN": "Non Narai"
+    },
+    {
+        "code": "3301",
+        "provinceCode": "33",
+        "nameTH": "เมืองศรีสะเกษ",
+        "nameEN": "Mueang Si Sa Ket"
+    },
+    {
+        "code": "3302",
+        "provinceCode": "33",
+        "nameTH": "ยางชุมน้อย",
+        "nameEN": "Yang Chum Noi"
+    },
+    {
+        "code": "3303",
+        "provinceCode": "33",
+        "nameTH": "กันทรารมย์",
+        "nameEN": "Kanthararom"
+    },
+    {
+        "code": "3304",
+        "provinceCode": "33",
+        "nameTH": "กันทรลักษ์",
+        "nameEN": "Kantharalak"
+    },
+    {
+        "code": "3305",
+        "provinceCode": "33",
+        "nameTH": "ขุขันธ์",
+        "nameEN": "Khukhan"
+    },
+    {
+        "code": "3306",
+        "provinceCode": "33",
+        "nameTH": "ไพรบึง",
+        "nameEN": "Phrai Bueng"
+    },
+    {
+        "code": "3307",
+        "provinceCode": "33",
+        "nameTH": "ปรางค์กู่",
+        "nameEN": "Prang Ku"
+    },
+    {
+        "code": "3308",
+        "provinceCode": "33",
+        "nameTH": "ขุนหาญ",
+        "nameEN": "Khun Han"
+    },
+    {
+        "code": "3309",
+        "provinceCode": "33",
+        "nameTH": "ราษีไศล",
+        "nameEN": "Rasi Salai"
+    },
+    {
+        "code": "3310",
+        "provinceCode": "33",
+        "nameTH": "อุทุมพรพิสัย",
+        "nameEN": "Uthumphon Phisai"
+    },
+    {
+        "code": "3311",
+        "provinceCode": "33",
+        "nameTH": "บึงบูรพ์",
+        "nameEN": "Bueng Bun"
+    },
+    {
+        "code": "3312",
+        "provinceCode": "33",
+        "nameTH": "ห้วยทับทัน",
+        "nameEN": "Huai Thap Than"
+    },
+    {
+        "code": "3313",
+        "provinceCode": "33",
+        "nameTH": "โนนคูณ",
+        "nameEN": "Non Khun"
+    },
+    {
+        "code": "3314",
+        "provinceCode": "33",
+        "nameTH": "ศรีรัตนะ",
+        "nameEN": "Si Rattana"
+    },
+    {
+        "code": "3315",
+        "provinceCode": "33",
+        "nameTH": "น้ำเกลี้ยง",
+        "nameEN": "Nam Kliang"
+    },
+    {
+        "code": "3316",
+        "provinceCode": "33",
+        "nameTH": "วังหิน",
+        "nameEN": "Wang Hin"
+    },
+    {
+        "code": "3317",
+        "provinceCode": "33",
+        "nameTH": "ภูสิงห์",
+        "nameEN": "Phu Sing"
+    },
+    {
+        "code": "3318",
+        "provinceCode": "33",
+        "nameTH": "เมืองจันทร์",
+        "nameEN": "Mueang Chan"
+    },
+    {
+        "code": "3319",
+        "provinceCode": "33",
+        "nameTH": "เบญจลักษ์",
+        "nameEN": "Benchalak"
+    },
+    {
+        "code": "3320",
+        "provinceCode": "33",
+        "nameTH": "พยุห์",
+        "nameEN": "Phayu"
+    },
+    {
+        "code": "3321",
+        "provinceCode": "33",
+        "nameTH": "โพธิ์ศรีสุวรรณ",
+        "nameEN": "Pho Si Suwan"
+    },
+    {
+        "code": "3322",
+        "provinceCode": "33",
+        "nameTH": "ศิลาลาด",
+        "nameEN": "Sila Lat"
+    },
+    {
+        "code": "3401",
+        "provinceCode": "34",
+        "nameTH": "เมืองอุบลราชธานี",
+        "nameEN": "Mueang Ubon Ratchathani"
+    },
+    {
+        "code": "3402",
+        "provinceCode": "34",
+        "nameTH": "ศรีเมืองใหม่",
+        "nameEN": "Si Mueang Mai"
+    },
+    {
+        "code": "3403",
+        "provinceCode": "34",
+        "nameTH": "โขงเจียม",
+        "nameEN": "Khong Chiam"
+    },
+    {
+        "code": "3404",
+        "provinceCode": "34",
+        "nameTH": "เขื่องใน",
+        "nameEN": "Khueang Nai"
+    },
+    {
+        "code": "3405",
+        "provinceCode": "34",
+        "nameTH": "เขมราฐ",
+        "nameEN": "Khemarat"
+    },
+    {
+        "code": "3406",
+        "provinceCode": "34",
+        "nameTH": "เดชอุดม",
+        "nameEN": "Det Udom"
+    },
+    {
+        "code": "3407",
+        "provinceCode": "34",
+        "nameTH": "นาจะหลวย",
+        "nameEN": "Na Chaluai"
+    },
+    {
+        "code": "3408",
+        "provinceCode": "34",
+        "nameTH": "น้ำยืน",
+        "nameEN": "Nam Yuen"
+    },
+    {
+        "code": "3409",
+        "provinceCode": "34",
+        "nameTH": "บุณฑริก",
+        "nameEN": "Boontharik"
+    },
+    {
+        "code": "3410",
+        "provinceCode": "34",
+        "nameTH": "ตระการพืชผล",
+        "nameEN": "Trakan Phuet Phon"
+    },
+    {
+        "code": "3411",
+        "provinceCode": "34",
+        "nameTH": "กุดข้าวปุ้น",
+        "nameEN": "Kut Khaopun"
+    },
+    {
+        "code": "3412",
+        "provinceCode": "34",
+        "nameTH": "ม่วงสามสิบ",
+        "nameEN": "Muang Sam Sip"
+    },
+    {
+        "code": "3413",
+        "provinceCode": "34",
+        "nameTH": "วารินชำราบ",
+        "nameEN": "Warin Chamrap"
+    },
+    {
+        "code": "3414",
+        "provinceCode": "34",
+        "nameTH": "พิบูลมังสาหาร",
+        "nameEN": "Phibun Mangsahan"
+    },
+    {
+        "code": "3415",
+        "provinceCode": "34",
+        "nameTH": "ตาลสุม",
+        "nameEN": "Tan Sum"
+    },
+    {
+        "code": "3416",
+        "provinceCode": "34",
+        "nameTH": "โพธิ์ไทร",
+        "nameEN": "Pho Sai"
+    },
+    {
+        "code": "3417",
+        "provinceCode": "34",
+        "nameTH": "สำโรง",
+        "nameEN": "Samrong"
+    },
+    {
+        "code": "3418",
+        "provinceCode": "34",
+        "nameTH": "ดอนมดแดง",
+        "nameEN": "Don Mot Daeng"
+    },
+    {
+        "code": "3419",
+        "provinceCode": "34",
+        "nameTH": "สิรินธร",
+        "nameEN": "Sirindhorn"
+    },
+    {
+        "code": "3420",
+        "provinceCode": "34",
+        "nameTH": "ทุ่งศรีอุดม",
+        "nameEN": "Thung Si Udom"
+    },
+    {
+        "code": "3421",
+        "provinceCode": "34",
+        "nameTH": "นาเยีย",
+        "nameEN": "Na Yia"
+    },
+    {
+        "code": "3422",
+        "provinceCode": "34",
+        "nameTH": "นาตาล",
+        "nameEN": "Na Tan"
+    },
+    {
+        "code": "3423",
+        "provinceCode": "34",
+        "nameTH": "เหล่าเสือโก้ก",
+        "nameEN": "Lao Suea Kok"
+    },
+    {
+        "code": "3424",
+        "provinceCode": "34",
+        "nameTH": "สว่างวีระวงศ์",
+        "nameEN": "Sawang Wirawong"
+    },
+    {
+        "code": "3425",
+        "provinceCode": "34",
+        "nameTH": "น้ำขุ่น",
+        "nameEN": "Nam Khun"
+    },
+    {
+        "code": "3501",
+        "provinceCode": "35",
+        "nameTH": "เมืองยโสธร",
+        "nameEN": "Mueang Yasothon"
+    },
+    {
+        "code": "3502",
+        "provinceCode": "35",
+        "nameTH": "ทรายมูล",
+        "nameEN": "Sai Mun"
+    },
+    {
+        "code": "3503",
+        "provinceCode": "35",
+        "nameTH": "กุดชุม",
+        "nameEN": "Kut Chum"
+    },
+    {
+        "code": "3504",
+        "provinceCode": "35",
+        "nameTH": "คำเขื่อนแก้ว",
+        "nameEN": "Kham Khuean Kaeo"
+    },
+    {
+        "code": "3505",
+        "provinceCode": "35",
+        "nameTH": "ป่าติ้ว",
+        "nameEN": "Pa Tio"
+    },
+    {
+        "code": "3506",
+        "provinceCode": "35",
+        "nameTH": "มหาชนะชัย",
+        "nameEN": "Maha Chana Chai"
+    },
+    {
+        "code": "3507",
+        "provinceCode": "35",
+        "nameTH": "ค้อวัง",
+        "nameEN": "Kho Wang"
+    },
+    {
+        "code": "3508",
+        "provinceCode": "35",
+        "nameTH": "เลิงนกทา",
+        "nameEN": "Loeng Nok Tha"
+    },
+    {
+        "code": "3509",
+        "provinceCode": "35",
+        "nameTH": "ไทยเจริญ",
+        "nameEN": "Thai Charoen"
+    },
+    {
+        "code": "3601",
+        "provinceCode": "36",
+        "nameTH": "เมืองชัยภูมิ",
+        "nameEN": "Mueang Chaiyaphum"
+    },
+    {
+        "code": "3602",
+        "provinceCode": "36",
+        "nameTH": "บ้านเขว้า",
+        "nameEN": "Ban Khwao"
+    },
+    {
+        "code": "3603",
+        "provinceCode": "36",
+        "nameTH": "คอนสวรรค์",
+        "nameEN": "Khon Sawan"
+    },
+    {
+        "code": "3604",
+        "provinceCode": "36",
+        "nameTH": "เกษตรสมบูรณ์",
+        "nameEN": "Kaset Sombun"
+    },
+    {
+        "code": "3605",
+        "provinceCode": "36",
+        "nameTH": "หนองบัวแดง",
+        "nameEN": "Nong Bua Daeng"
+    },
+    {
+        "code": "3606",
+        "provinceCode": "36",
+        "nameTH": "จัตุรัส",
+        "nameEN": "Chatturat"
+    },
+    {
+        "code": "3607",
+        "provinceCode": "36",
+        "nameTH": "บำเหน็จณรงค์",
+        "nameEN": "Bamnet Narong"
+    },
+    {
+        "code": "3608",
+        "provinceCode": "36",
+        "nameTH": "หนองบัวระเหว",
+        "nameEN": "Nong Bua Rawe"
+    },
+    {
+        "code": "3609",
+        "provinceCode": "36",
+        "nameTH": "เทพสถิต",
+        "nameEN": "Thep Sathit"
+    },
+    {
+        "code": "3610",
+        "provinceCode": "36",
+        "nameTH": "ภูเขียว",
+        "nameEN": "Phu Khiao"
+    },
+    {
+        "code": "3611",
+        "provinceCode": "36",
+        "nameTH": "บ้านแท่น",
+        "nameEN": "Ban Thaen"
+    },
+    {
+        "code": "3612",
+        "provinceCode": "36",
+        "nameTH": "แก้งคร้อ",
+        "nameEN": "Kaeng Khro"
+    },
+    {
+        "code": "3613",
+        "provinceCode": "36",
+        "nameTH": "คอนสาร",
+        "nameEN": "Khon San"
+    },
+    {
+        "code": "3614",
+        "provinceCode": "36",
+        "nameTH": "ภักดีชุมพล",
+        "nameEN": "Phakdi Chumphon"
+    },
+    {
+        "code": "3615",
+        "provinceCode": "36",
+        "nameTH": "เนินสง่า",
+        "nameEN": "Noen Sa-nga"
+    },
+    {
+        "code": "3616",
+        "provinceCode": "36",
+        "nameTH": "ซับใหญ่",
+        "nameEN": "Sap Yai"
+    },
+    {
+        "code": "3701",
+        "provinceCode": "37",
+        "nameTH": "เมืองอำนาจเจริญ",
+        "nameEN": "Mueang Amnat Charoen"
+    },
+    {
+        "code": "3702",
+        "provinceCode": "37",
+        "nameTH": "ชานุมาน",
+        "nameEN": "Chanuman"
+    },
+    {
+        "code": "3703",
+        "provinceCode": "37",
+        "nameTH": "ปทุมราชวงศา",
+        "nameEN": "Pathum Ratchawongsa"
+    },
+    {
+        "code": "3704",
+        "provinceCode": "37",
+        "nameTH": "พนา",
+        "nameEN": "Phana"
+    },
+    {
+        "code": "3705",
+        "provinceCode": "37",
+        "nameTH": "เสนางคนิคม",
+        "nameEN": "Senangkhanikhom"
+    },
+    {
+        "code": "3706",
+        "provinceCode": "37",
+        "nameTH": "หัวตะพาน",
+        "nameEN": "Hua Taphan"
+    },
+    {
+        "code": "3707",
+        "provinceCode": "37",
+        "nameTH": "ลืออำนาจ",
+        "nameEN": "Lue Amnat"
+    },
+    {
+        "code": "3801",
+        "provinceCode": "38",
+        "nameTH": "บึงกาฬ",
+        "nameEN": "Bueng Kan"
+    },
+    {
+        "code": "3802",
+        "provinceCode": "38",
+        "nameTH": "พรเจริญ",
+        "nameEN": "Phon Charoen"
+    },
+    {
+        "code": "3803",
+        "provinceCode": "38",
+        "nameTH": "โซ่พิสัย",
+        "nameEN": "So Phisai"
+    },
+    {
+        "code": "3804",
+        "provinceCode": "38",
+        "nameTH": "เซกา",
+        "nameEN": "Seka"
+    },
+    {
+        "code": "3805",
+        "provinceCode": "38",
+        "nameTH": "ปากคาด",
+        "nameEN": "Pak Khat"
+    },
+    {
+        "code": "3806",
+        "provinceCode": "38",
+        "nameTH": "บึงโขงหลง",
+        "nameEN": "Bueng Khong Long"
+    },
+    {
+        "code": "3807",
+        "provinceCode": "38",
+        "nameTH": "ศรีวิไล",
+        "nameEN": "Si Wilai"
+    },
+    {
+        "code": "3808",
+        "provinceCode": "38",
+        "nameTH": "บุ่งคล้า",
+        "nameEN": "Bung Khla"
+    },
+    {
+        "code": "3901",
+        "provinceCode": "39",
+        "nameTH": "เมืองหนองบัวลำภู",
+        "nameEN": "Mueang Nong Bua Lam Phu"
+    },
+    {
+        "code": "3902",
+        "provinceCode": "39",
+        "nameTH": "นากลาง",
+        "nameEN": "Na Klang"
+    },
+    {
+        "code": "3903",
+        "provinceCode": "39",
+        "nameTH": "โนนสัง",
+        "nameEN": "Non Sang"
+    },
+    {
+        "code": "3904",
+        "provinceCode": "39",
+        "nameTH": "ศรีบุญเรือง",
+        "nameEN": "Si Bun Rueang"
+    },
+    {
+        "code": "3905",
+        "provinceCode": "39",
+        "nameTH": "สุวรรณคูหา",
+        "nameEN": "Suwannakhuha"
+    },
+    {
+        "code": "3906",
+        "provinceCode": "39",
+        "nameTH": "นาวัง",
+        "nameEN": "Na Wang"
+    },
+    {
+        "code": "4001",
+        "provinceCode": "40",
+        "nameTH": "เมืองขอนแก่น",
+        "nameEN": "Mueang Khon Kaen"
+    },
+    {
+        "code": "4002",
+        "provinceCode": "40",
+        "nameTH": "บ้านฝาง",
+        "nameEN": "Ban Fang"
+    },
+    {
+        "code": "4003",
+        "provinceCode": "40",
+        "nameTH": "พระยืน",
+        "nameEN": "Phra Yuen"
+    },
+    {
+        "code": "4004",
+        "provinceCode": "40",
+        "nameTH": "หนองเรือ",
+        "nameEN": "Nong Ruea"
+    },
+    {
+        "code": "4005",
+        "provinceCode": "40",
+        "nameTH": "ชุมแพ",
+        "nameEN": "Chum Phae"
+    },
+    {
+        "code": "4006",
+        "provinceCode": "40",
+        "nameTH": "สีชมพู",
+        "nameEN": "Si Chomphu"
+    },
+    {
+        "code": "4007",
+        "provinceCode": "40",
+        "nameTH": "น้ำพอง",
+        "nameEN": "Nam Phong"
+    },
+    {
+        "code": "4008",
+        "provinceCode": "40",
+        "nameTH": "อุบลรัตน์",
+        "nameEN": "Ubolratana"
+    },
+    {
+        "code": "4009",
+        "provinceCode": "40",
+        "nameTH": "กระนวน",
+        "nameEN": "Kranuan"
+    },
+    {
+        "code": "4010",
+        "provinceCode": "40",
+        "nameTH": "บ้านไผ่",
+        "nameEN": "Ban Phai"
+    },
+    {
+        "code": "4011",
+        "provinceCode": "40",
+        "nameTH": "เปือยน้อย",
+        "nameEN": "Pueai Noi"
+    },
+    {
+        "code": "4012",
+        "provinceCode": "40",
+        "nameTH": "พล",
+        "nameEN": "Phon"
+    },
+    {
+        "code": "4013",
+        "provinceCode": "40",
+        "nameTH": "แวงใหญ่",
+        "nameEN": "Waeng Yai"
+    },
+    {
+        "code": "4014",
+        "provinceCode": "40",
+        "nameTH": "แวงน้อย",
+        "nameEN": "Waeng Noi"
+    },
+    {
+        "code": "4015",
+        "provinceCode": "40",
+        "nameTH": "หนองสองห้อง",
+        "nameEN": "Nong Song Hong"
+    },
+    {
+        "code": "4016",
+        "provinceCode": "40",
+        "nameTH": "ภูเวียง",
+        "nameEN": "Phu Wiang"
+    },
+    {
+        "code": "4017",
+        "provinceCode": "40",
+        "nameTH": "มัญจาคีรี",
+        "nameEN": "Mancha Khiri"
+    },
+    {
+        "code": "4018",
+        "provinceCode": "40",
+        "nameTH": "ชนบท",
+        "nameEN": "Chonnabot"
+    },
+    {
+        "code": "4019",
+        "provinceCode": "40",
+        "nameTH": "เขาสวนกวาง",
+        "nameEN": "Khao Suan Kwang"
+    },
+    {
+        "code": "4020",
+        "provinceCode": "40",
+        "nameTH": "ภูผาม่าน",
+        "nameEN": "Phu Phaman"
+    },
+    {
+        "code": "4021",
+        "provinceCode": "40",
+        "nameTH": "ซำสูง",
+        "nameEN": "Sam Sung"
+    },
+    {
+        "code": "4022",
+        "provinceCode": "40",
+        "nameTH": "โคกโพธิ์ไชย",
+        "nameEN": "Khok Pho Chai"
+    },
+    {
+        "code": "4023",
+        "provinceCode": "40",
+        "nameTH": "หนองนาคำ",
+        "nameEN": "Nong Na Kham"
+    },
+    {
+        "code": "4024",
+        "provinceCode": "40",
+        "nameTH": "บ้านแฮด",
+        "nameEN": "Ban Haet"
+    },
+    {
+        "code": "4025",
+        "provinceCode": "40",
+        "nameTH": "โนนศิลา",
+        "nameEN": "Non Sila"
+    },
+    {
+        "code": "4026",
+        "provinceCode": "40",
+        "nameTH": "เวียงเก่า",
+        "nameEN": "Wiang Kao"
+    },
+    {
+        "code": "4101",
+        "provinceCode": "41",
+        "nameTH": "เมืองอุดรธานี",
+        "nameEN": "Mueang Udon Thani"
+    },
+    {
+        "code": "4102",
+        "provinceCode": "41",
+        "nameTH": "กุดจับ",
+        "nameEN": "Kut Chap"
+    },
+    {
+        "code": "4103",
+        "provinceCode": "41",
+        "nameTH": "หนองวัวซอ",
+        "nameEN": "Nong Wua So"
+    },
+    {
+        "code": "4104",
+        "provinceCode": "41",
+        "nameTH": "กุมภวาปี",
+        "nameEN": "Kumphawapi"
+    },
+    {
+        "code": "4105",
+        "provinceCode": "41",
+        "nameTH": "โนนสะอาด",
+        "nameEN": "Non Sa-at"
+    },
+    {
+        "code": "4106",
+        "provinceCode": "41",
+        "nameTH": "หนองหาน",
+        "nameEN": "Nong Saeng"
+    },
+    {
+        "code": "4107",
+        "provinceCode": "41",
+        "nameTH": "ทุ่งฝน",
+        "nameEN": "Thung Fon"
+    },
+    {
+        "code": "4108",
+        "provinceCode": "41",
+        "nameTH": "ไชยวาน",
+        "nameEN": "Chai Wan"
+    },
+    {
+        "code": "4109",
+        "provinceCode": "41",
+        "nameTH": "ศรีธาตุ",
+        "nameEN": "Si That"
+    },
+    {
+        "code": "4110",
+        "provinceCode": "41",
+        "nameTH": "วังสามหมอ",
+        "nameEN": "Wang Sam Mo"
+    },
+    {
+        "code": "4111",
+        "provinceCode": "41",
+        "nameTH": "บ้านดุง",
+        "nameEN": "Ban Dung"
+    },
+    {
+        "code": "4117",
+        "provinceCode": "41",
+        "nameTH": "บ้านผือ",
+        "nameEN": "Ban Phue"
+    },
+    {
+        "code": "4118",
+        "provinceCode": "41",
+        "nameTH": "น้ำโสม",
+        "nameEN": "Nam Som"
+    },
+    {
+        "code": "4119",
+        "provinceCode": "41",
+        "nameTH": "เพ็ญ",
+        "nameEN": "Phen"
+    },
+    {
+        "code": "4120",
+        "provinceCode": "41",
+        "nameTH": "สร้างคอม",
+        "nameEN": "Sang Khom"
+    },
+    {
+        "code": "4121",
+        "provinceCode": "41",
+        "nameTH": "หนองแสง",
+        "nameEN": "Nong Saeng"
+    },
+    {
+        "code": "4122",
+        "provinceCode": "41",
+        "nameTH": "นายูง",
+        "nameEN": "Na Yung"
+    },
+    {
+        "code": "4123",
+        "provinceCode": "41",
+        "nameTH": "พิบูลย์รักษ์",
+        "nameEN": "Phibun Rak"
+    },
+    {
+        "code": "4124",
+        "provinceCode": "41",
+        "nameTH": "กู่แก้ว",
+        "nameEN": "Ku Kaeo"
+    },
+    {
+        "code": "4125",
+        "provinceCode": "41",
+        "nameTH": "ประจักษ์ศิลปาคม",
+        "nameEN": "Prachaksinlapakhom"
+    },
+    {
+        "code": "4201",
+        "provinceCode": "42",
+        "nameTH": "เมืองเลย",
+        "nameEN": "Mueang Loei"
+    },
+    {
+        "code": "4202",
+        "provinceCode": "42",
+        "nameTH": "นาด้วง",
+        "nameEN": "Na Duang"
+    },
+    {
+        "code": "4203",
+        "provinceCode": "42",
+        "nameTH": "เชียงคาน",
+        "nameEN": "Chiang Khan"
+    },
+    {
+        "code": "4204",
+        "provinceCode": "42",
+        "nameTH": "ปากชม",
+        "nameEN": "Pak Chom"
+    },
+    {
+        "code": "4205",
+        "provinceCode": "42",
+        "nameTH": "ด่านซ้าย",
+        "nameEN": "Dan Sai"
+    },
+    {
+        "code": "4206",
+        "provinceCode": "42",
+        "nameTH": "นาแห้ว",
+        "nameEN": "Na Haeo"
+    },
+    {
+        "code": "4207",
+        "provinceCode": "42",
+        "nameTH": "ภูเรือ",
+        "nameEN": "Phu Ruea"
+    },
+    {
+        "code": "4208",
+        "provinceCode": "42",
+        "nameTH": "ท่าลี่",
+        "nameEN": "Tha Li"
+    },
+    {
+        "code": "4209",
+        "provinceCode": "42",
+        "nameTH": "วังสะพุง",
+        "nameEN": "Wang Saphung"
+    },
+    {
+        "code": "4210",
+        "provinceCode": "42",
+        "nameTH": "ภูกระดึง",
+        "nameEN": "Phu Kradueng"
+    },
+    {
+        "code": "4211",
+        "provinceCode": "42",
+        "nameTH": "ภูหลวง",
+        "nameEN": "Phu Luang"
+    },
+    {
+        "code": "4212",
+        "provinceCode": "42",
+        "nameTH": "ผาขาว",
+        "nameEN": "Pha  Khao"
+    },
+    {
+        "code": "4213",
+        "provinceCode": "42",
+        "nameTH": "เอราวัณ",
+        "nameEN": "Erawan"
+    },
+    {
+        "code": "4214",
+        "provinceCode": "42",
+        "nameTH": "หนองหิน",
+        "nameEN": "Nong Hin"
+    },
+    {
+        "code": "4301",
+        "provinceCode": "43",
+        "nameTH": "เมืองหนองคาย",
+        "nameEN": "Mueang Nong Khai"
+    },
+    {
+        "code": "4302",
+        "provinceCode": "43",
+        "nameTH": "ท่าบ่อ",
+        "nameEN": "Tha Bo"
+    },
+    {
+        "code": "4303",
+        "provinceCode": "43",
+        "nameTH": "โพนพิสัย",
+        "nameEN": "Phon Phisai"
+    },
+    {
+        "code": "4304",
+        "provinceCode": "43",
+        "nameTH": "ศรีเชียงใหม่",
+        "nameEN": "Si Chiang Mai"
+    },
+    {
+        "code": "4305",
+        "provinceCode": "43",
+        "nameTH": "สังคม",
+        "nameEN": "Sangkhom"
+    },
+    {
+        "code": "4306",
+        "provinceCode": "43",
+        "nameTH": "สระใคร",
+        "nameEN": "Sakhrai"
+    },
+    {
+        "code": "4307",
+        "provinceCode": "43",
+        "nameTH": "เฝ้าไร่",
+        "nameEN": "Fao Rai"
+    },
+    {
+        "code": "4308",
+        "provinceCode": "43",
+        "nameTH": "รัตนวาปี",
+        "nameEN": "Rattanawapi"
+    },
+    {
+        "code": "4309",
+        "provinceCode": "43",
+        "nameTH": "โพธิ์ตาก",
+        "nameEN": "Pho Tak"
+    },
+    {
+        "code": "4401",
+        "provinceCode": "44",
+        "nameTH": "เมืองมหาสารคาม",
+        "nameEN": "Mueang Maha Sarakham"
+    },
+    {
+        "code": "4402",
+        "provinceCode": "44",
+        "nameTH": "แกดำ",
+        "nameEN": "Kae Dam"
+    },
+    {
+        "code": "4403",
+        "provinceCode": "44",
+        "nameTH": "โกสุมพิสัย",
+        "nameEN": "Kosum Phisai"
+    },
+    {
+        "code": "4404",
+        "provinceCode": "44",
+        "nameTH": "กันทรวิชัย",
+        "nameEN": "Kantharawichai"
+    },
+    {
+        "code": "4405",
+        "provinceCode": "44",
+        "nameTH": "เชียงยืน",
+        "nameEN": "Chiang Yuen"
+    },
+    {
+        "code": "4406",
+        "provinceCode": "44",
+        "nameTH": "บรบือ",
+        "nameEN": "Borabue"
+    },
+    {
+        "code": "4407",
+        "provinceCode": "44",
+        "nameTH": "นาเชือก",
+        "nameEN": "Na Chueak"
+    },
+    {
+        "code": "4408",
+        "provinceCode": "44",
+        "nameTH": "พยัคฆภูมิพิสัย",
+        "nameEN": "Phayakkhaphum Phisai"
+    },
+    {
+        "code": "4409",
+        "provinceCode": "44",
+        "nameTH": "วาปีปทุม",
+        "nameEN": "Wapi Pathum"
+    },
+    {
+        "code": "4410",
+        "provinceCode": "44",
+        "nameTH": "นาดูน",
+        "nameEN": "Na Dun"
+    },
+    {
+        "code": "4411",
+        "provinceCode": "44",
+        "nameTH": "ยางสีสุราช",
+        "nameEN": "Yang Sisurat"
+    },
+    {
+        "code": "4412",
+        "provinceCode": "44",
+        "nameTH": "กุดรัง",
+        "nameEN": "Kut Rang"
+    },
+    {
+        "code": "4413",
+        "provinceCode": "44",
+        "nameTH": "ชื่นชม",
+        "nameEN": "Chuen Chom"
+    },
+    {
+        "code": "4501",
+        "provinceCode": "45",
+        "nameTH": "เมืองร้อยเอ็ด",
+        "nameEN": "Mueang Roi Et"
+    },
+    {
+        "code": "4502",
+        "provinceCode": "45",
+        "nameTH": "เกษตรวิสัย",
+        "nameEN": "Kaset Wisai"
+    },
+    {
+        "code": "4503",
+        "provinceCode": "45",
+        "nameTH": "ปทุมรัตต์",
+        "nameEN": "Pathum Rat"
+    },
+    {
+        "code": "4504",
+        "provinceCode": "45",
+        "nameTH": "จตุรพักตรพิมาน",
+        "nameEN": "Chaturaphak Phiman"
+    },
+    {
+        "code": "4505",
+        "provinceCode": "45",
+        "nameTH": "ธวัชบุรี",
+        "nameEN": "Thawat Buri"
+    },
+    {
+        "code": "4506",
+        "provinceCode": "45",
+        "nameTH": "พนมไพร",
+        "nameEN": "Phanom Phrai"
+    },
+    {
+        "code": "4507",
+        "provinceCode": "45",
+        "nameTH": "โพนทอง",
+        "nameEN": "Phon Thong"
+    },
+    {
+        "code": "4508",
+        "provinceCode": "45",
+        "nameTH": "โพธิ์ชัย",
+        "nameEN": "Pho Chai"
+    },
+    {
+        "code": "4509",
+        "provinceCode": "45",
+        "nameTH": "หนองพอก",
+        "nameEN": "Nong Phok"
+    },
+    {
+        "code": "4510",
+        "provinceCode": "45",
+        "nameTH": "เสลภูมิ",
+        "nameEN": "Selaphum"
+    },
+    {
+        "code": "4511",
+        "provinceCode": "45",
+        "nameTH": "สุวรรณภูมิ",
+        "nameEN": "Suwannaphum"
+    },
+    {
+        "code": "4512",
+        "provinceCode": "45",
+        "nameTH": "เมืองสรวง",
+        "nameEN": "Mueang Suang"
+    },
+    {
+        "code": "4513",
+        "provinceCode": "45",
+        "nameTH": "โพนทราย",
+        "nameEN": "Phon Sai"
+    },
+    {
+        "code": "4514",
+        "provinceCode": "45",
+        "nameTH": "อาจสามารถ",
+        "nameEN": "At Samat"
+    },
+    {
+        "code": "4515",
+        "provinceCode": "45",
+        "nameTH": "เมยวดี",
+        "nameEN": "Moei Wadi"
+    },
+    {
+        "code": "4516",
+        "provinceCode": "45",
+        "nameTH": "ศรีสมเด็จ",
+        "nameEN": "Si Somdet"
+    },
+    {
+        "code": "4517",
+        "provinceCode": "45",
+        "nameTH": "จังหาร",
+        "nameEN": "Changhan"
+    },
+    {
+        "code": "4518",
+        "provinceCode": "45",
+        "nameTH": "เชียงขวัญ",
+        "nameEN": "Chiang Khwan"
+    },
+    {
+        "code": "4519",
+        "provinceCode": "45",
+        "nameTH": "หนองฮี",
+        "nameEN": "Nong Hi"
+    },
+    {
+        "code": "4520",
+        "provinceCode": "45",
+        "nameTH": "ทุ่งเขาหลวง",
+        "nameEN": "Thung Khao Luang"
+    },
+    {
+        "code": "4601",
+        "provinceCode": "46",
+        "nameTH": "เมืองกาฬสินธุ์",
+        "nameEN": "Mueang Kalasin"
+    },
+    {
+        "code": "4602",
+        "provinceCode": "46",
+        "nameTH": "นามน",
+        "nameEN": "Na Mon"
+    },
+    {
+        "code": "4603",
+        "provinceCode": "46",
+        "nameTH": "กมลาไสย",
+        "nameEN": "Kamalasai"
+    },
+    {
+        "code": "4604",
+        "provinceCode": "46",
+        "nameTH": "ร่องคำ",
+        "nameEN": "Rong Kham"
+    },
+    {
+        "code": "4605",
+        "provinceCode": "46",
+        "nameTH": "กุฉินารายณ์",
+        "nameEN": "Kuchinarai"
+    },
+    {
+        "code": "4606",
+        "provinceCode": "46",
+        "nameTH": "เขาวง",
+        "nameEN": "Khao Wong"
+    },
+    {
+        "code": "4607",
+        "provinceCode": "46",
+        "nameTH": "ยางตลาด",
+        "nameEN": "Yang Talat"
+    },
+    {
+        "code": "4608",
+        "provinceCode": "46",
+        "nameTH": "ห้วยเม็ก",
+        "nameEN": "Huai Mek"
+    },
+    {
+        "code": "4609",
+        "provinceCode": "46",
+        "nameTH": "สหัสขันธ์",
+        "nameEN": "Sahatsakhan"
+    },
+    {
+        "code": "4610",
+        "provinceCode": "46",
+        "nameTH": "คำม่วง",
+        "nameEN": "Kham Muang"
+    },
+    {
+        "code": "4611",
+        "provinceCode": "46",
+        "nameTH": "ท่าคันโท",
+        "nameEN": "Tha Khantho"
+    },
+    {
+        "code": "4612",
+        "provinceCode": "46",
+        "nameTH": "หนองกุงศรี",
+        "nameEN": "Nong Kung Si"
+    },
+    {
+        "code": "4613",
+        "provinceCode": "46",
+        "nameTH": "สมเด็จ",
+        "nameEN": "Somdet"
+    },
+    {
+        "code": "4614",
+        "provinceCode": "46",
+        "nameTH": "ห้วยผึ้ง",
+        "nameEN": "Huai Phueng"
+    },
+    {
+        "code": "4615",
+        "provinceCode": "46",
+        "nameTH": "สามชัย",
+        "nameEN": "Sam Chai"
+    },
+    {
+        "code": "4616",
+        "provinceCode": "46",
+        "nameTH": "นาคู",
+        "nameEN": "Na Khu"
+    },
+    {
+        "code": "4617",
+        "provinceCode": "46",
+        "nameTH": "ดอนจาน",
+        "nameEN": "Don Chan"
+    },
+    {
+        "code": "4618",
+        "provinceCode": "46",
+        "nameTH": "ฆ้องชัย",
+        "nameEN": "Khong Chai"
+    },
+    {
+        "code": "4701",
+        "provinceCode": "47",
+        "nameTH": "เมืองสกลนคร",
+        "nameEN": "Mueang Sakon Nakhon"
+    },
+    {
+        "code": "4702",
+        "provinceCode": "47",
+        "nameTH": "กุสุมาลย์",
+        "nameEN": "Kusuman"
+    },
+    {
+        "code": "4703",
+        "provinceCode": "47",
+        "nameTH": "กุดบาก",
+        "nameEN": "Kut Bak"
+    },
+    {
+        "code": "4704",
+        "provinceCode": "47",
+        "nameTH": "พรรณานิคม",
+        "nameEN": "Phanna Nikhom"
+    },
+    {
+        "code": "4705",
+        "provinceCode": "47",
+        "nameTH": "พังโคน",
+        "nameEN": "Phanh khon"
+    },
+    {
+        "code": "4706",
+        "provinceCode": "47",
+        "nameTH": "วาริชภูมิ",
+        "nameEN": "Waritchaphum"
+    },
+    {
+        "code": "4707",
+        "provinceCode": "47",
+        "nameTH": "นิคมน้ำอูน",
+        "nameEN": "Nikhom Nam un"
+    },
+    {
+        "code": "4708",
+        "provinceCode": "47",
+        "nameTH": "วานรนิวาส",
+        "nameEN": "Wanon Niwat"
+    },
+    {
+        "code": "4709",
+        "provinceCode": "47",
+        "nameTH": "คำตากล้า",
+        "nameEN": "Kham Ta Kla"
+    },
+    {
+        "code": "4710",
+        "provinceCode": "47",
+        "nameTH": "บ้านม่วง",
+        "nameEN": "Ban Muang"
+    },
+    {
+        "code": "4711",
+        "provinceCode": "47",
+        "nameTH": "อากาศอำนวย",
+        "nameEN": "Akat Amnuai"
+    },
+    {
+        "code": "4712",
+        "provinceCode": "47",
+        "nameTH": "สว่างแดนดิน",
+        "nameEN": "Sawang Daen Din"
+    },
+    {
+        "code": "4713",
+        "provinceCode": "47",
+        "nameTH": "ส่องดาว",
+        "nameEN": "Song Dao"
+    },
+    {
+        "code": "4714",
+        "provinceCode": "47",
+        "nameTH": "เต่างอย",
+        "nameEN": "Tao Ngoi"
+    },
+    {
+        "code": "4715",
+        "provinceCode": "47",
+        "nameTH": "โคกศรีสุพรรณ",
+        "nameEN": "Khok Si Suphan"
+    },
+    {
+        "code": "4716",
+        "provinceCode": "47",
+        "nameTH": "เจริญศิลป์",
+        "nameEN": "Charoen Sin"
+    },
+    {
+        "code": "4717",
+        "provinceCode": "47",
+        "nameTH": "โพนนาแก้ว",
+        "nameEN": "Phon Na Kaeo"
+    },
+    {
+        "code": "4718",
+        "provinceCode": "47",
+        "nameTH": "ภูพาน",
+        "nameEN": "Phu Phan"
+    },
+    {
+        "code": "4801",
+        "provinceCode": "48",
+        "nameTH": "เมืองนครพนม",
+        "nameEN": "Mueang Nakhon Phanom"
+    },
+    {
+        "code": "4802",
+        "provinceCode": "48",
+        "nameTH": "ปลาปาก",
+        "nameEN": "Pla Pak"
+    },
+    {
+        "code": "4803",
+        "provinceCode": "48",
+        "nameTH": "ท่าอุเทน",
+        "nameEN": "Tha Uthen"
+    },
+    {
+        "code": "4804",
+        "provinceCode": "48",
+        "nameTH": "บ้านแพง",
+        "nameEN": "Ban Phaeng"
+    },
+    {
+        "code": "4805",
+        "provinceCode": "48",
+        "nameTH": "ธาตุพนม",
+        "nameEN": "That Phanom"
+    },
+    {
+        "code": "4806",
+        "provinceCode": "48",
+        "nameTH": "เรณูนคร",
+        "nameEN": "Renu Nakhon"
+    },
+    {
+        "code": "4807",
+        "provinceCode": "48",
+        "nameTH": "นาแก",
+        "nameEN": "Na Kae"
+    },
+    {
+        "code": "4808",
+        "provinceCode": "48",
+        "nameTH": "ศรีสงคราม",
+        "nameEN": "Si Songkhram"
+    },
+    {
+        "code": "4809",
+        "provinceCode": "48",
+        "nameTH": "นาหว้า",
+        "nameEN": "Na Wa"
+    },
+    {
+        "code": "4810",
+        "provinceCode": "48",
+        "nameTH": "โพนสวรรค์",
+        "nameEN": "Phon Sawan"
+    },
+    {
+        "code": "4811",
+        "provinceCode": "48",
+        "nameTH": "นาทม",
+        "nameEN": "Na Thom"
+    },
+    {
+        "code": "4812",
+        "provinceCode": "48",
+        "nameTH": "วังยาง",
+        "nameEN": "Wang Yang"
+    },
+    {
+        "code": "4901",
+        "provinceCode": "49",
+        "nameTH": "เมืองมุกดาหาร",
+        "nameEN": "Mueang Mukdahan"
+    },
+    {
+        "code": "4902",
+        "provinceCode": "49",
+        "nameTH": "นิคมคำสร้อย",
+        "nameEN": "Nikhom Kham Soi"
+    },
+    {
+        "code": "4903",
+        "provinceCode": "49",
+        "nameTH": "ดอนตาล",
+        "nameEN": "Don Tan"
+    },
+    {
+        "code": "4904",
+        "provinceCode": "49",
+        "nameTH": "ดงหลวง",
+        "nameEN": "Don Tan"
+    },
+    {
+        "code": "4905",
+        "provinceCode": "49",
+        "nameTH": "คำชะอี",
+        "nameEN": "Khamcha-i"
+    },
+    {
+        "code": "4906",
+        "provinceCode": "49",
+        "nameTH": "หว้านใหญ่",
+        "nameEN": "Wan Yai"
+    },
+    {
+        "code": "4907",
+        "provinceCode": "49",
+        "nameTH": "หนองสูง",
+        "nameEN": "Nong Sung"
+    },
+    {
+        "code": "5001",
+        "provinceCode": "50",
+        "nameTH": "เมืองเชียงใหม่",
+        "nameEN": "Mueang Chiang Mai"
+    },
+    {
+        "code": "5002",
+        "provinceCode": "50",
+        "nameTH": "จอมทอง",
+        "nameEN": "Chom Thong"
+    },
+    {
+        "code": "5003",
+        "provinceCode": "50",
+        "nameTH": "แม่แจ่ม",
+        "nameEN": "Mae Chaem"
+    },
+    {
+        "code": "5004",
+        "provinceCode": "50",
+        "nameTH": "เชียงดาว",
+        "nameEN": "Chiang Dao"
+    },
+    {
+        "code": "5005",
+        "provinceCode": "50",
+        "nameTH": "ดอยสะเก็ด",
+        "nameEN": "Doi Saket"
+    },
+    {
+        "code": "5006",
+        "provinceCode": "50",
+        "nameTH": "แม่แตง",
+        "nameEN": "Mae Taeng"
+    },
+    {
+        "code": "5007",
+        "provinceCode": "50",
+        "nameTH": "แม่ริม",
+        "nameEN": "Mae Rim"
+    },
+    {
+        "code": "5008",
+        "provinceCode": "50",
+        "nameTH": "สะเมิง",
+        "nameEN": "Samoeng"
+    },
+    {
+        "code": "5009",
+        "provinceCode": "50",
+        "nameTH": "ฝาง",
+        "nameEN": "Fang"
+    },
+    {
+        "code": "5010",
+        "provinceCode": "50",
+        "nameTH": "แม่อาย",
+        "nameEN": "Mae Ai"
+    },
+    {
+        "code": "5011",
+        "provinceCode": "50",
+        "nameTH": "พร้าว",
+        "nameEN": "Phrao"
+    },
+    {
+        "code": "5012",
+        "provinceCode": "50",
+        "nameTH": "สันป่าตอง",
+        "nameEN": "San Pa Tong"
+    },
+    {
+        "code": "5013",
+        "provinceCode": "50",
+        "nameTH": "สันกำแพง",
+        "nameEN": "San Kamphaeng"
+    },
+    {
+        "code": "5014",
+        "provinceCode": "50",
+        "nameTH": "สันทราย",
+        "nameEN": "San Sai"
+    },
+    {
+        "code": "5015",
+        "provinceCode": "50",
+        "nameTH": "หางดง",
+        "nameEN": "Hang Dong"
+    },
+    {
+        "code": "5016",
+        "provinceCode": "50",
+        "nameTH": "ฮอด",
+        "nameEN": "Hot"
+    },
+    {
+        "code": "5017",
+        "provinceCode": "50",
+        "nameTH": "ดอยเต่า",
+        "nameEN": "Doi Tao"
+    },
+    {
+        "code": "5018",
+        "provinceCode": "50",
+        "nameTH": "อมก๋อย",
+        "nameEN": "Omkoi"
+    },
+    {
+        "code": "5019",
+        "provinceCode": "50",
+        "nameTH": "สารภี",
+        "nameEN": "Saraphi"
+    },
+    {
+        "code": "5020",
+        "provinceCode": "50",
+        "nameTH": "เวียงแหง",
+        "nameEN": "Wiang Haeng"
+    },
+    {
+        "code": "5021",
+        "provinceCode": "50",
+        "nameTH": "ไชยปราการ",
+        "nameEN": "Chai Prakan"
+    },
+    {
+        "code": "5022",
+        "provinceCode": "50",
+        "nameTH": "แม่วาง",
+        "nameEN": "Mae Wang"
+    },
+    {
+        "code": "5023",
+        "provinceCode": "50",
+        "nameTH": "แม่ออน",
+        "nameEN": "Mae On"
+    },
+    {
+        "code": "5024",
+        "provinceCode": "50",
+        "nameTH": "ดอยหล่อ",
+        "nameEN": "Doi Lo"
+    },
+    {
+        "code": "5025",
+        "provinceCode": "50",
+        "nameTH": "กัลยาณิวัฒนา",
+        "nameEN": "Kanlayaniwatthana"
+    },
+    {
+        "code": "5101",
+        "provinceCode": "51",
+        "nameTH": "เมืองลำพูน",
+        "nameEN": "Mueang Lamphun"
+    },
+    {
+        "code": "5102",
+        "provinceCode": "51",
+        "nameTH": "แม่ทา",
+        "nameEN": "Mae Tha"
+    },
+    {
+        "code": "5103",
+        "provinceCode": "51",
+        "nameTH": "บ้านโฮ่ง",
+        "nameEN": "Ban Hong"
+    },
+    {
+        "code": "5104",
+        "provinceCode": "51",
+        "nameTH": "ลี้",
+        "nameEN": "Li"
+    },
+    {
+        "code": "5105",
+        "provinceCode": "51",
+        "nameTH": "ทุ่งหัวช้าง",
+        "nameEN": "Thung Hua Chang"
+    },
+    {
+        "code": "5106",
+        "provinceCode": "51",
+        "nameTH": "ป่าซาง",
+        "nameEN": "Pa Sang"
+    },
+    {
+        "code": "5107",
+        "provinceCode": "51",
+        "nameTH": "บ้านธิ",
+        "nameEN": "Ban Thi"
+    },
+    {
+        "code": "5108",
+        "provinceCode": "51",
+        "nameTH": "เวียงหนองล่อง",
+        "nameEN": "Wiang Nong Long"
+    },
+    {
+        "code": "5201",
+        "provinceCode": "52",
+        "nameTH": "เมืองลำปาง",
+        "nameEN": "Mueang Lampang"
+    },
+    {
+        "code": "5202",
+        "provinceCode": "52",
+        "nameTH": "แม่เมาะ",
+        "nameEN": "Mae Mo"
+    },
+    {
+        "code": "5203",
+        "provinceCode": "52",
+        "nameTH": "เกาะคา",
+        "nameEN": "Ko kha"
+    },
+    {
+        "code": "5204",
+        "provinceCode": "52",
+        "nameTH": "เสริมงาม",
+        "nameEN": "Soem Ngam"
+    },
+    {
+        "code": "5205",
+        "provinceCode": "52",
+        "nameTH": "งาว",
+        "nameEN": "Ngao"
+    },
+    {
+        "code": "5206",
+        "provinceCode": "52",
+        "nameTH": "แจ้ห่ม",
+        "nameEN": "Chae Hom"
+    },
+    {
+        "code": "5207",
+        "provinceCode": "52",
+        "nameTH": "วังเหนือ",
+        "nameEN": "Wang Nuea"
+    },
+    {
+        "code": "5208",
+        "provinceCode": "52",
+        "nameTH": "เถิน",
+        "nameEN": "Thoen"
+    },
+    {
+        "code": "5209",
+        "provinceCode": "52",
+        "nameTH": "แม่พริก",
+        "nameEN": "Mae Phrik"
+    },
+    {
+        "code": "5210",
+        "provinceCode": "52",
+        "nameTH": "แม่ทะ",
+        "nameEN": "Mae Tha"
+    },
+    {
+        "code": "5211",
+        "provinceCode": "52",
+        "nameTH": "สบปราบ",
+        "nameEN": "Sop Prap"
+    },
+    {
+        "code": "5212",
+        "provinceCode": "52",
+        "nameTH": "ห้างฉัตร",
+        "nameEN": "Hang Chat"
+    },
+    {
+        "code": "5213",
+        "provinceCode": "52",
+        "nameTH": "เมืองปาน",
+        "nameEN": "Mueang Pan"
+    },
+    {
+        "code": "5301",
+        "provinceCode": "53",
+        "nameTH": "เมืองอุตรดิตถ์",
+        "nameEN": "Mueang Uttaradit"
+    },
+    {
+        "code": "5302",
+        "provinceCode": "53",
+        "nameTH": "ตรอน",
+        "nameEN": "Tron"
+    },
+    {
+        "code": "5303",
+        "provinceCode": "53",
+        "nameTH": "ท่าปลา",
+        "nameEN": "Tha Pla"
+    },
+    {
+        "code": "5304",
+        "provinceCode": "53",
+        "nameTH": "น้ำปาด",
+        "nameEN": "Nam Pat"
+    },
+    {
+        "code": "5305",
+        "provinceCode": "53",
+        "nameTH": "ฟากท่า",
+        "nameEN": "Fak Tha"
+    },
+    {
+        "code": "5306",
+        "provinceCode": "53",
+        "nameTH": "บ้านโคก",
+        "nameEN": "Ban Khok"
+    },
+    {
+        "code": "5307",
+        "provinceCode": "53",
+        "nameTH": "พิชัย",
+        "nameEN": "Phichai"
+    },
+    {
+        "code": "5308",
+        "provinceCode": "53",
+        "nameTH": "ลับแล",
+        "nameEN": "Laplae"
+    },
+    {
+        "code": "5309",
+        "provinceCode": "53",
+        "nameTH": "ทองแสนขัน",
+        "nameEN": "Thong Saen Khan"
+    },
+    {
+        "code": "5401",
+        "provinceCode": "54",
+        "nameTH": "เมืองแพร่",
+        "nameEN": "Mueang Phrae"
+    },
+    {
+        "code": "5402",
+        "provinceCode": "54",
+        "nameTH": "ร้องกวาง",
+        "nameEN": "Mueang Phrae"
+    },
+    {
+        "code": "5403",
+        "provinceCode": "54",
+        "nameTH": "ลอง",
+        "nameEN": "Long"
+    },
+    {
+        "code": "5404",
+        "provinceCode": "54",
+        "nameTH": "สูงเม่น",
+        "nameEN": "Sung Men"
+    },
+    {
+        "code": "5405",
+        "provinceCode": "54",
+        "nameTH": "เด่นชัย",
+        "nameEN": "Den Chai"
+    },
+    {
+        "code": "5406",
+        "provinceCode": "54",
+        "nameTH": "สอง",
+        "nameEN": "Song"
+    },
+    {
+        "code": "5407",
+        "provinceCode": "54",
+        "nameTH": "วังชิ้น",
+        "nameEN": "Wang Chin"
+    },
+    {
+        "code": "5408",
+        "provinceCode": "54",
+        "nameTH": "หนองม่วงไข่",
+        "nameEN": "Nong Muang Khai"
+    },
+    {
+        "code": "5501",
+        "provinceCode": "55",
+        "nameTH": "เมืองน่าน",
+        "nameEN": "Mueang Nan"
+    },
+    {
+        "code": "5502",
+        "provinceCode": "55",
+        "nameTH": "แม่จริม",
+        "nameEN": "Mae Charim"
+    },
+    {
+        "code": "5503",
+        "provinceCode": "55",
+        "nameTH": "บ้านหลวง",
+        "nameEN": "Ban Luang"
+    },
+    {
+        "code": "5504",
+        "provinceCode": "55",
+        "nameTH": "นาน้อย",
+        "nameEN": "Na Noi"
+    },
+    {
+        "code": "5505",
+        "provinceCode": "55",
+        "nameTH": "ปัว",
+        "nameEN": "Pua"
+    },
+    {
+        "code": "5506",
+        "provinceCode": "55",
+        "nameTH": "ท่าวังผา",
+        "nameEN": "Tha Wang Pha"
+    },
+    {
+        "code": "5507",
+        "provinceCode": "55",
+        "nameTH": "เวียงสา",
+        "nameEN": "Wiang Sa"
+    },
+    {
+        "code": "5508",
+        "provinceCode": "55",
+        "nameTH": "ทุ่งช้าง",
+        "nameEN": "Thung Chang"
+    },
+    {
+        "code": "5509",
+        "provinceCode": "55",
+        "nameTH": "เชียงกลาง",
+        "nameEN": "Chiang Klang"
+    },
+    {
+        "code": "5510",
+        "provinceCode": "55",
+        "nameTH": "นาหมื่น",
+        "nameEN": "Na Muen"
+    },
+    {
+        "code": "5511",
+        "provinceCode": "55",
+        "nameTH": "สันติสุข",
+        "nameEN": "Santi Suk"
+    },
+    {
+        "code": "5512",
+        "provinceCode": "55",
+        "nameTH": "บ่อเกลือ",
+        "nameEN": "Bo Kluea"
+    },
+    {
+        "code": "5513",
+        "provinceCode": "55",
+        "nameTH": "สองแคว",
+        "nameEN": "Song Khwae"
+    },
+    {
+        "code": "5514",
+        "provinceCode": "55",
+        "nameTH": "ภูเพียง",
+        "nameEN": "Phu Phiang"
+    },
+    {
+        "code": "5515",
+        "provinceCode": "55",
+        "nameTH": "เฉลิมพระเกียรติ",
+        "nameEN": "Chaloem Phra Kiet"
+    },
+    {
+        "code": "5601",
+        "provinceCode": "56",
+        "nameTH": "เมืองพะเยา",
+        "nameEN": "Mueang Phayao"
+    },
+    {
+        "code": "5602",
+        "provinceCode": "56",
+        "nameTH": "จุน",
+        "nameEN": "Mueang Phayao"
+    },
+    {
+        "code": "5603",
+        "provinceCode": "56",
+        "nameTH": "เชียงคำ",
+        "nameEN": "Mueang Phayao"
+    },
+    {
+        "code": "5604",
+        "provinceCode": "56",
+        "nameTH": "เชียงม่วน",
+        "nameEN": "Mueang Phayao"
+    },
+    {
+        "code": "5605",
+        "provinceCode": "56",
+        "nameTH": "ดอกคำใต้",
+        "nameEN": "Mueang Phayao"
+    },
+    {
+        "code": "5606",
+        "provinceCode": "56",
+        "nameTH": "ปง",
+        "nameEN": "Mueang Phayao"
+    },
+    {
+        "code": "5607",
+        "provinceCode": "56",
+        "nameTH": "แม่ใจ",
+        "nameEN": "Mueang Phayao"
+    },
+    {
+        "code": "5608",
+        "provinceCode": "56",
+        "nameTH": "ภูซาง",
+        "nameEN": "Mueang Phayao"
+    },
+    {
+        "code": "5609",
+        "provinceCode": "56",
+        "nameTH": "ภูกามยาว",
+        "nameEN": "Mueang Phayao"
+    },
+    {
+        "code": "5701",
+        "provinceCode": "57",
+        "nameTH": "เมืองเชียงราย",
+        "nameEN": "Mueang Chiang Rai"
+    },
+    {
+        "code": "5702",
+        "provinceCode": "57",
+        "nameTH": "เวียงชัย",
+        "nameEN": "Wiang Chai"
+    },
+    {
+        "code": "5703",
+        "provinceCode": "57",
+        "nameTH": "เชียงของ",
+        "nameEN": "Chiang Khong"
+    },
+    {
+        "code": "5704",
+        "provinceCode": "57",
+        "nameTH": "เทิง",
+        "nameEN": "Thoeng"
+    },
+    {
+        "code": "5705",
+        "provinceCode": "57",
+        "nameTH": "พาน",
+        "nameEN": "Phan"
+    },
+    {
+        "code": "5706",
+        "provinceCode": "57",
+        "nameTH": "ป่าแดด",
+        "nameEN": "Pa Daet"
+    },
+    {
+        "code": "5707",
+        "provinceCode": "57",
+        "nameTH": "แม่จัน",
+        "nameEN": "Mae Chan"
+    },
+    {
+        "code": "5708",
+        "provinceCode": "57",
+        "nameTH": "เชียงแสน",
+        "nameEN": "Chiang Saen"
+    },
+    {
+        "code": "5709",
+        "provinceCode": "57",
+        "nameTH": "แม่สาย",
+        "nameEN": "Mae Sai"
+    },
+    {
+        "code": "5710",
+        "provinceCode": "57",
+        "nameTH": "แม่สรวย",
+        "nameEN": "Mae Suai"
+    },
+    {
+        "code": "5711",
+        "provinceCode": "57",
+        "nameTH": "เวียงป่าเป้า",
+        "nameEN": "Wiang Pa Pao"
+    },
+    {
+        "code": "5712",
+        "provinceCode": "57",
+        "nameTH": "พญาเม็งราย",
+        "nameEN": "Phaya Mengrai"
+    },
+    {
+        "code": "5713",
+        "provinceCode": "57",
+        "nameTH": "เวียงแก่น",
+        "nameEN": "Wiang Kaen"
+    },
+    {
+        "code": "5714",
+        "provinceCode": "57",
+        "nameTH": "ขุนตาล",
+        "nameEN": "Khun Tan"
+    },
+    {
+        "code": "5715",
+        "provinceCode": "57",
+        "nameTH": "แม่ฟ้าหลวง",
+        "nameEN": "Mae Fa Luang"
+    },
+    {
+        "code": "5716",
+        "provinceCode": "57",
+        "nameTH": "แม่ลาว",
+        "nameEN": "Mae Lao"
+    },
+    {
+        "code": "5717",
+        "provinceCode": "57",
+        "nameTH": "เวียงเชียงรุ้ง",
+        "nameEN": "Wiang Chiang Rung"
+    },
+    {
+        "code": "5718",
+        "provinceCode": "57",
+        "nameTH": "ดอยหลวง",
+        "nameEN": "Doi Luang"
+    },
+    {
+        "code": "5801",
+        "provinceCode": "58",
+        "nameTH": "เมืองแม่ฮ่องสอน",
+        "nameEN": "Mueang Mae Hong Son"
+    },
+    {
+        "code": "5802",
+        "provinceCode": "58",
+        "nameTH": "ขุนยวม",
+        "nameEN": "Khun Yuam"
+    },
+    {
+        "code": "5803",
+        "provinceCode": "58",
+        "nameTH": "ปาย",
+        "nameEN": "Pai"
+    },
+    {
+        "code": "5804",
+        "provinceCode": "58",
+        "nameTH": "แม่สะเรียง",
+        "nameEN": "Mae Sariang"
+    },
+    {
+        "code": "5805",
+        "provinceCode": "58",
+        "nameTH": "แม่ลาน้อย",
+        "nameEN": "Mae La Noi"
+    },
+    {
+        "code": "5806",
+        "provinceCode": "58",
+        "nameTH": "สบเมย",
+        "nameEN": "Sop Moei"
+    },
+    {
+        "code": "5807",
+        "provinceCode": "58",
+        "nameTH": "ปางมะผ้า",
+        "nameEN": "Pang Mapha"
+    },
+    {
+        "code": "6001",
+        "provinceCode": "60",
+        "nameTH": "เมืองนครสวรรค์",
+        "nameEN": "Mueang Nakhon Sawan"
+    },
+    {
+        "code": "6002",
+        "provinceCode": "60",
+        "nameTH": "โกรกพระ",
+        "nameEN": "Krok Phra"
+    },
+    {
+        "code": "6003",
+        "provinceCode": "60",
+        "nameTH": "ชุมแสง",
+        "nameEN": "Chum Saeng"
+    },
+    {
+        "code": "6004",
+        "provinceCode": "60",
+        "nameTH": "หนองบัว",
+        "nameEN": "Nong Bua"
+    },
+    {
+        "code": "6005",
+        "provinceCode": "60",
+        "nameTH": "บรรพตพิสัย",
+        "nameEN": "Banphot Phisai"
+    },
+    {
+        "code": "6006",
+        "provinceCode": "60",
+        "nameTH": "เก้าเลี้ยว",
+        "nameEN": "Kao Liao"
+    },
+    {
+        "code": "6007",
+        "provinceCode": "60",
+        "nameTH": "ตาคลี",
+        "nameEN": "Takhli"
+    },
+    {
+        "code": "6008",
+        "provinceCode": "60",
+        "nameTH": "ท่าตะโก",
+        "nameEN": "Tha Tako"
+    },
+    {
+        "code": "6009",
+        "provinceCode": "60",
+        "nameTH": "ไพศาลี",
+        "nameEN": "Phaisali"
+    },
+    {
+        "code": "6010",
+        "provinceCode": "60",
+        "nameTH": "พยุหะคีรี",
+        "nameEN": "Phayuha Hkiri"
+    },
+    {
+        "code": "6011",
+        "provinceCode": "60",
+        "nameTH": "ลาดยาว",
+        "nameEN": "Lat Yao"
+    },
+    {
+        "code": "6012",
+        "provinceCode": "60",
+        "nameTH": "ตากฟ้า",
+        "nameEN": "Tak Fa"
+    },
+    {
+        "code": "6013",
+        "provinceCode": "60",
+        "nameTH": "แม่วงก์",
+        "nameEN": "Mae Wong"
+    },
+    {
+        "code": "6014",
+        "provinceCode": "60",
+        "nameTH": "แม่เปิน",
+        "nameEN": "Mae Pern"
+    },
+    {
+        "code": "6015",
+        "provinceCode": "60",
+        "nameTH": "ชุมตาบง",
+        "nameEN": "Chum Ta Bong"
+    },
+    {
+        "code": "6101",
+        "provinceCode": "61",
+        "nameTH": "เมืองอุทัยธานี",
+        "nameEN": "Mueang Uthai Thani"
+    },
+    {
+        "code": "6102",
+        "provinceCode": "61",
+        "nameTH": "ทัพทัน",
+        "nameEN": "Thap Than"
+    },
+    {
+        "code": "6103",
+        "provinceCode": "61",
+        "nameTH": "สว่างอารมณ์",
+        "nameEN": "Sawang Arom"
+    },
+    {
+        "code": "6104",
+        "provinceCode": "61",
+        "nameTH": "หนองฉาง",
+        "nameEN": "Nong Chang"
+    },
+    {
+        "code": "6105",
+        "provinceCode": "61",
+        "nameTH": "หนองขาหย่าง",
+        "nameEN": "Nong Khayang"
+    },
+    {
+        "code": "6106",
+        "provinceCode": "61",
+        "nameTH": "บ้านไร่",
+        "nameEN": "Ban Rai"
+    },
+    {
+        "code": "6107",
+        "provinceCode": "61",
+        "nameTH": "ลานสัก",
+        "nameEN": "Lan Sak"
+    },
+    {
+        "code": "6108",
+        "provinceCode": "61",
+        "nameTH": "ห้วยคต",
+        "nameEN": "Huai Khot"
+    },
+    {
+        "code": "6201",
+        "provinceCode": "62",
+        "nameTH": "เมืองกำแพงเพชร",
+        "nameEN": "Mueang Kamphaeng Phet"
+    },
+    {
+        "code": "6202",
+        "provinceCode": "62",
+        "nameTH": "ไทรงาม",
+        "nameEN": "Sai Ngam"
+    },
+    {
+        "code": "6203",
+        "provinceCode": "62",
+        "nameTH": "คลองลาน",
+        "nameEN": "Khlong Lan"
+    },
+    {
+        "code": "6204",
+        "provinceCode": "62",
+        "nameTH": "ขาณุวรลักษบุรี",
+        "nameEN": "Khanu Woralaksaburi"
+    },
+    {
+        "code": "6205",
+        "provinceCode": "62",
+        "nameTH": "คลองขลุง",
+        "nameEN": "Khlong Khlung"
+    },
+    {
+        "code": "6206",
+        "provinceCode": "62",
+        "nameTH": "พรานกระต่าย",
+        "nameEN": "Phran Kratai"
+    },
+    {
+        "code": "6207",
+        "provinceCode": "62",
+        "nameTH": "ลานกระบือ",
+        "nameEN": "Lan Krabue"
+    },
+    {
+        "code": "6208",
+        "provinceCode": "62",
+        "nameTH": "ทรายทองวัฒนา",
+        "nameEN": "Sai Thong Watthana"
+    },
+    {
+        "code": "6209",
+        "provinceCode": "62",
+        "nameTH": "ปางศิลาทอง",
+        "nameEN": "Pang Sila Thong"
+    },
+    {
+        "code": "6210",
+        "provinceCode": "62",
+        "nameTH": "บึงสามัคคี",
+        "nameEN": "Bueng Samakkhi"
+    },
+    {
+        "code": "6211",
+        "provinceCode": "62",
+        "nameTH": "โกสัมพีนคร",
+        "nameEN": "Kosamphi Nakhon"
+    },
+    {
+        "code": "6301",
+        "provinceCode": "63",
+        "nameTH": "เมืองตาก",
+        "nameEN": "Mueang Tak"
+    },
+    {
+        "code": "6302",
+        "provinceCode": "63",
+        "nameTH": "บ้านตาก",
+        "nameEN": "Ban Tak"
+    },
+    {
+        "code": "6303",
+        "provinceCode": "63",
+        "nameTH": "สามเงา",
+        "nameEN": "Sam Ngao"
+    },
+    {
+        "code": "6304",
+        "provinceCode": "63",
+        "nameTH": "แม่ระมาด",
+        "nameEN": "Mae Ramat"
+    },
+    {
+        "code": "6305",
+        "provinceCode": "63",
+        "nameTH": "ท่าสองยาง",
+        "nameEN": "Tha Song Yang"
+    },
+    {
+        "code": "6306",
+        "provinceCode": "63",
+        "nameTH": "แม่สอด",
+        "nameEN": "Mae Sot"
+    },
+    {
+        "code": "6307",
+        "provinceCode": "63",
+        "nameTH": "พบพระ",
+        "nameEN": "Phop Phra"
+    },
+    {
+        "code": "6308",
+        "provinceCode": "63",
+        "nameTH": "อุ้มผาง",
+        "nameEN": "Um Phang"
+    },
+    {
+        "code": "6309",
+        "provinceCode": "63",
+        "nameTH": "วังเจ้า",
+        "nameEN": "Wang Chao"
+    },
+    {
+        "code": "6401",
+        "provinceCode": "64",
+        "nameTH": "เมืองสุโขทัย",
+        "nameEN": "Mueang Sukhothai"
+    },
+    {
+        "code": "6402",
+        "provinceCode": "64",
+        "nameTH": "บ้านด่านลานหอย",
+        "nameEN": "Ban Dan Lan Hoi"
+    },
+    {
+        "code": "6403",
+        "provinceCode": "64",
+        "nameTH": "คีรีมาศ",
+        "nameEN": "Khiri Mat"
+    },
+    {
+        "code": "6404",
+        "provinceCode": "64",
+        "nameTH": "กงไกรลาศ",
+        "nameEN": "Kong Krailat"
+    },
+    {
+        "code": "6405",
+        "provinceCode": "64",
+        "nameTH": "ศรีสัชนาลัย",
+        "nameEN": "Si Satchanalai"
+    },
+    {
+        "code": "6406",
+        "provinceCode": "64",
+        "nameTH": "ศรีสำโรง",
+        "nameEN": "Si Samrong"
+    },
+    {
+        "code": "6407",
+        "provinceCode": "64",
+        "nameTH": "สวรรคโลก",
+        "nameEN": "Sawankhalok"
+    },
+    {
+        "code": "6408",
+        "provinceCode": "64",
+        "nameTH": "ศรีนคร",
+        "nameEN": "Si Nakhon"
+    },
+    {
+        "code": "6409",
+        "provinceCode": "64",
+        "nameTH": "ทุ่งเสลี่ยม",
+        "nameEN": "Thung Saliam"
+    },
+    {
+        "code": "6501",
+        "provinceCode": "65",
+        "nameTH": "เมืองพิษณุโลก",
+        "nameEN": "Mueang Phitsanulok"
+    },
+    {
+        "code": "6502",
+        "provinceCode": "65",
+        "nameTH": "วังทอง",
+        "nameEN": "Wang Thong"
+    },
+    {
+        "code": "6503",
+        "provinceCode": "65",
+        "nameTH": "บางระกำ",
+        "nameEN": "Bang Rakam"
+    },
+    {
+        "code": "6504",
+        "provinceCode": "65",
+        "nameTH": "พรหมพิราม",
+        "nameEN": "Phrom Phiram"
+    },
+    {
+        "code": "6505",
+        "provinceCode": "65",
+        "nameTH": "นครไทย",
+        "nameEN": "Nakhon Thai"
+    },
+    {
+        "code": "6506",
+        "provinceCode": "65",
+        "nameTH": "เนินมะปราง",
+        "nameEN": "Noen Maprang"
+    },
+    {
+        "code": "6507",
+        "provinceCode": "65",
+        "nameTH": "บางกระทุ่ม",
+        "nameEN": "Bang Krathum"
+    },
+    {
+        "code": "6508",
+        "provinceCode": "65",
+        "nameTH": "ชาติตระการ",
+        "nameEN": "Chat Trakan"
+    },
+    {
+        "code": "6509",
+        "provinceCode": "65",
+        "nameTH": "วัดโบสถ์",
+        "nameEN": "Wat Bot"
+    },
+    {
+        "code": "6601",
+        "provinceCode": "66",
+        "nameTH": "เมืองพิจิตร",
+        "nameEN": "Mueang Phichit"
+    },
+    {
+        "code": "6602",
+        "provinceCode": "66",
+        "nameTH": "วังทรายพูน",
+        "nameEN": "Wang Sai Phun"
+    },
+    {
+        "code": "6603",
+        "provinceCode": "66",
+        "nameTH": "โพธิ์ประทับช้าง",
+        "nameEN": "Pho Prathap Chang"
+    },
+    {
+        "code": "6604",
+        "provinceCode": "66",
+        "nameTH": "ตะพานหิน",
+        "nameEN": "Taphan Hin"
+    },
+    {
+        "code": "6605",
+        "provinceCode": "66",
+        "nameTH": "บางมูลนาก",
+        "nameEN": "Bang Mun Nak"
+    },
+    {
+        "code": "6606",
+        "provinceCode": "66",
+        "nameTH": "โพทะเล",
+        "nameEN": "Pho Thale"
+    },
+    {
+        "code": "6607",
+        "provinceCode": "66",
+        "nameTH": "สามง่าม",
+        "nameEN": "Sam Ngam"
+    },
+    {
+        "code": "6608",
+        "provinceCode": "66",
+        "nameTH": "ทับคล้อ",
+        "nameEN": "Tap Khlo"
+    },
+    {
+        "code": "6609",
+        "provinceCode": "66",
+        "nameTH": "สากเหล็ก",
+        "nameEN": "Sak Lek"
+    },
+    {
+        "code": "6610",
+        "provinceCode": "66",
+        "nameTH": "บึงนาราง",
+        "nameEN": "Bueng Na Rang"
+    },
+    {
+        "code": "6611",
+        "provinceCode": "66",
+        "nameTH": "ดงเจริญ",
+        "nameEN": "Dong Charoen"
+    },
+    {
+        "code": "6612",
+        "provinceCode": "66",
+        "nameTH": "วชิรบารมี",
+        "nameEN": "Wachirabarami"
+    },
+    {
+        "code": "6701",
+        "provinceCode": "67",
+        "nameTH": "เมืองเพชรบูรณ์",
+        "nameEN": "Mueang Phetchabun"
+    },
+    {
+        "code": "6702",
+        "provinceCode": "67",
+        "nameTH": "ชนแดน",
+        "nameEN": "Chon Daen"
+    },
+    {
+        "code": "6703",
+        "provinceCode": "67",
+        "nameTH": "หล่มสัก",
+        "nameEN": "Lom Sak"
+    },
+    {
+        "code": "6704",
+        "provinceCode": "67",
+        "nameTH": "หล่มเก่า",
+        "nameEN": "Lom Kao"
+    },
+    {
+        "code": "6705",
+        "provinceCode": "67",
+        "nameTH": "วิเชียรบุรี",
+        "nameEN": "Wichian Buri"
+    },
+    {
+        "code": "6706",
+        "provinceCode": "67",
+        "nameTH": "ศรีเทพ",
+        "nameEN": "Si Thep"
+    },
+    {
+        "code": "6707",
+        "provinceCode": "67",
+        "nameTH": "หนองไผ่",
+        "nameEN": "Nong Phai"
+    },
+    {
+        "code": "6708",
+        "provinceCode": "67",
+        "nameTH": "บึงสามพัน",
+        "nameEN": "Bueng Sam Phan"
+    },
+    {
+        "code": "6709",
+        "provinceCode": "67",
+        "nameTH": "น้ำหนาว",
+        "nameEN": "Nam Nao"
+    },
+    {
+        "code": "6710",
+        "provinceCode": "67",
+        "nameTH": "วังโป่ง",
+        "nameEN": "Wang Pong"
+    },
+    {
+        "code": "6711",
+        "provinceCode": "67",
+        "nameTH": "เขาค้อ",
+        "nameEN": "Khao kho"
+    },
+    {
+        "code": "7001",
+        "provinceCode": "70",
+        "nameTH": "เมืองราชบุรี",
+        "nameEN": "Mueang Ratchaburi"
+    },
+    {
+        "code": "7002",
+        "provinceCode": "70",
+        "nameTH": "จอมบึง",
+        "nameEN": "Chom Bueng"
+    },
+    {
+        "code": "7003",
+        "provinceCode": "70",
+        "nameTH": "สวนผึ้ง",
+        "nameEN": "Suan Phueng"
+    },
+    {
+        "code": "7004",
+        "provinceCode": "70",
+        "nameTH": "ดำเนินสะดวก",
+        "nameEN": "Damnoen Saduak"
+    },
+    {
+        "code": "7005",
+        "provinceCode": "70",
+        "nameTH": "บ้านโป่ง",
+        "nameEN": "Ban Pong"
+    },
+    {
+        "code": "7006",
+        "provinceCode": "70",
+        "nameTH": "บางแพ",
+        "nameEN": "Bang Phae"
+    },
+    {
+        "code": "7007",
+        "provinceCode": "70",
+        "nameTH": "โพธาราม",
+        "nameEN": "Photharam"
+    },
+    {
+        "code": "7008",
+        "provinceCode": "70",
+        "nameTH": "ปากท่อ",
+        "nameEN": "Pak Tho"
+    },
+    {
+        "code": "7009",
+        "provinceCode": "70",
+        "nameTH": "วัดเพลง",
+        "nameEN": "Wat Phleng"
+    },
+    {
+        "code": "7010",
+        "provinceCode": "70",
+        "nameTH": "บ้านคา",
+        "nameEN": "Ban Kha"
+    },
+    {
+        "code": "7101",
+        "provinceCode": "71",
+        "nameTH": "เมืองกาญจนบุรี",
+        "nameEN": "Mueang Kanchanaburi"
+    },
+    {
+        "code": "7102",
+        "provinceCode": "71",
+        "nameTH": "ไทรโยค",
+        "nameEN": "Sai Yok"
+    },
+    {
+        "code": "7103",
+        "provinceCode": "71",
+        "nameTH": "บ่อพลอย",
+        "nameEN": "Bo Phloi"
+    },
+    {
+        "code": "7104",
+        "provinceCode": "71",
+        "nameTH": "ศรีสวัสดิ์",
+        "nameEN": "Si Sawat"
+    },
+    {
+        "code": "7105",
+        "provinceCode": "71",
+        "nameTH": "ท่ามะกา",
+        "nameEN": "Tha Maka"
+    },
+    {
+        "code": "7106",
+        "provinceCode": "71",
+        "nameTH": "ท่าม่วง",
+        "nameEN": "Tha Muang"
+    },
+    {
+        "code": "7107",
+        "provinceCode": "71",
+        "nameTH": "ทองผาภูมิ",
+        "nameEN": "Thong Pha Phum"
+    },
+    {
+        "code": "7108",
+        "provinceCode": "71",
+        "nameTH": "สังขละบุรี",
+        "nameEN": "Sangkhla Buri"
+    },
+    {
+        "code": "7109",
+        "provinceCode": "71",
+        "nameTH": "พนมทวน",
+        "nameEN": "Phanom Thuan"
+    },
+    {
+        "code": "7110",
+        "provinceCode": "71",
+        "nameTH": "เลาขวัญ",
+        "nameEN": "Lao Khwan"
+    },
+    {
+        "code": "7111",
+        "provinceCode": "71",
+        "nameTH": "ด่านมะขามเตี้ย",
+        "nameEN": "Dan Makham Tia"
+    },
+    {
+        "code": "7112",
+        "provinceCode": "71",
+        "nameTH": "หนองปรือ",
+        "nameEN": "Nong Prue"
+    },
+    {
+        "code": "7113",
+        "provinceCode": "71",
+        "nameTH": "ห้วยกระเจา",
+        "nameEN": "Huai Krachao"
+    },
+    {
+        "code": "7201",
+        "provinceCode": "72",
+        "nameTH": "เมืองสุพรรณบุรี",
+        "nameEN": "Mueang Saphan Buri"
+    },
+    {
+        "code": "7202",
+        "provinceCode": "72",
+        "nameTH": "เดิมบางนางบวช",
+        "nameEN": "Doem Bang Nang Buat"
+    },
+    {
+        "code": "7203",
+        "provinceCode": "72",
+        "nameTH": "ด่านช้าง",
+        "nameEN": "Dan Chang"
+    },
+    {
+        "code": "7204",
+        "provinceCode": "72",
+        "nameTH": "บางปลาม้า",
+        "nameEN": "Bang Pla Ma"
+    },
+    {
+        "code": "7205",
+        "provinceCode": "72",
+        "nameTH": "ศรีประจันต์",
+        "nameEN": "Si Prachan"
+    },
+    {
+        "code": "7206",
+        "provinceCode": "72",
+        "nameTH": "ดอนเจดีย์",
+        "nameEN": "Don Chedi"
+    },
+    {
+        "code": "7207",
+        "provinceCode": "72",
+        "nameTH": "สองพี่น้อง",
+        "nameEN": "Song Phi Nong"
+    },
+    {
+        "code": "7208",
+        "provinceCode": "72",
+        "nameTH": "สามชุก",
+        "nameEN": "Sam Chuk"
+    },
+    {
+        "code": "7209",
+        "provinceCode": "72",
+        "nameTH": "อู่ทอง",
+        "nameEN": "U Thong"
+    },
+    {
+        "code": "7210",
+        "provinceCode": "72",
+        "nameTH": "หนองหญ้าไซ",
+        "nameEN": "Nong Ya Sai"
+    },
+    {
+        "code": "7301",
+        "provinceCode": "73",
+        "nameTH": "เมืองนครปฐม",
+        "nameEN": "mueang Nakhon Pathom"
+    },
+    {
+        "code": "7302",
+        "provinceCode": "73",
+        "nameTH": "กำแพงแสน",
+        "nameEN": "Kamphaeng Saen"
+    },
+    {
+        "code": "7303",
+        "provinceCode": "73",
+        "nameTH": "นครชัยศรี",
+        "nameEN": "Nakhon Chai Si"
+    },
+    {
+        "code": "7304",
+        "provinceCode": "73",
+        "nameTH": "ดอนตูม",
+        "nameEN": "Don Tum"
+    },
+    {
+        "code": "7305",
+        "provinceCode": "73",
+        "nameTH": "บางเลน",
+        "nameEN": "Bang Len"
+    },
+    {
+        "code": "7306",
+        "provinceCode": "73",
+        "nameTH": "สามพราน",
+        "nameEN": "Sam Phran"
+    },
+    {
+        "code": "7307",
+        "provinceCode": "73",
+        "nameTH": "พุทธมณฑล",
+        "nameEN": "Phutthamonthon"
+    },
+    {
+        "code": "7401",
+        "provinceCode": "74",
+        "nameTH": "เมืองสมุทรสาคร",
+        "nameEN": "Mueang Samut Sakhon"
+    },
+    {
+        "code": "7402",
+        "provinceCode": "74",
+        "nameTH": "กระทุ่มแบน",
+        "nameEN": "Krathum Baen"
+    },
+    {
+        "code": "7403",
+        "provinceCode": "74",
+        "nameTH": "บ้านแพ้ว",
+        "nameEN": "Ban Phaeo"
+    },
+    {
+        "code": "7501",
+        "provinceCode": "75",
+        "nameTH": "เมืองสมุทรสงคราม",
+        "nameEN": "Mueang Samut Songkhram"
+    },
+    {
+        "code": "7502",
+        "provinceCode": "75",
+        "nameTH": "บางคนที",
+        "nameEN": "Bang Khonthi"
+    },
+    {
+        "code": "7503",
+        "provinceCode": "75",
+        "nameTH": "อัมพวา",
+        "nameEN": "Amphawa"
+    },
+    {
+        "code": "7601",
+        "provinceCode": "76",
+        "nameTH": "เมืองเพชรบุรี",
+        "nameEN": "Mueang Phetchaburi"
+    },
+    {
+        "code": "7602",
+        "provinceCode": "76",
+        "nameTH": "เขาย้อย",
+        "nameEN": "Khao Yoi"
+    },
+    {
+        "code": "7603",
+        "provinceCode": "76",
+        "nameTH": "หนองหญ้าปล้อง",
+        "nameEN": "Nong Ya Plong"
+    },
+    {
+        "code": "7604",
+        "provinceCode": "76",
+        "nameTH": "ชะอำ",
+        "nameEN": "Cha-am"
+    },
+    {
+        "code": "7605",
+        "provinceCode": "76",
+        "nameTH": "ท่ายาง",
+        "nameEN": "Tha Yang"
+    },
+    {
+        "code": "7606",
+        "provinceCode": "76",
+        "nameTH": "บ้านลาด",
+        "nameEN": "Ban Lat"
+    },
+    {
+        "code": "7607",
+        "provinceCode": "76",
+        "nameTH": "บ้านแหลม",
+        "nameEN": "Ban Laem"
+    },
+    {
+        "code": "7608",
+        "provinceCode": "76",
+        "nameTH": "แก่งกระจาน",
+        "nameEN": "Kaeng Krachan"
+    },
+    {
+        "code": "7701",
+        "provinceCode": "77",
+        "nameTH": "เมืองประจวบคีรีขันธ์",
+        "nameEN": "Mueang Prachuap Khiri Khan"
+    },
+    {
+        "code": "7702",
+        "provinceCode": "77",
+        "nameTH": "กุยบุรี",
+        "nameEN": "Kui Buri"
+    },
+    {
+        "code": "7703",
+        "provinceCode": "77",
+        "nameTH": "ทับสะแก",
+        "nameEN": "Thap Sakae"
+    },
+    {
+        "code": "7704",
+        "provinceCode": "77",
+        "nameTH": "บางสะพาน",
+        "nameEN": "Bang Saphan"
+    },
+    {
+        "code": "7705",
+        "provinceCode": "77",
+        "nameTH": "บางสะพานน้อย",
+        "nameEN": "Bang Saphan Noi"
+    },
+    {
+        "code": "7706",
+        "provinceCode": "77",
+        "nameTH": "ปราณบุรี",
+        "nameEN": "Pran Buri"
+    },
+    {
+        "code": "7707",
+        "provinceCode": "77",
+        "nameTH": "หัวหิน",
+        "nameEN": "Hua Hin"
+    },
+    {
+        "code": "7708",
+        "provinceCode": "77",
+        "nameTH": "สามร้อยยอด",
+        "nameEN": "Sam Roi Yot"
+    },
+    {
+        "code": "8001",
+        "provinceCode": "80",
+        "nameTH": "เมืองนครศรีธรรมราช",
+        "nameEN": "Mueang Nakhon Si Thammarat"
+    },
+    {
+        "code": "8002",
+        "provinceCode": "80",
+        "nameTH": "พรหมคีรี",
+        "nameEN": "Phrom Khiri"
+    },
+    {
+        "code": "8003",
+        "provinceCode": "80",
+        "nameTH": "ลานสกา",
+        "nameEN": "Lan Saka"
+    },
+    {
+        "code": "8004",
+        "provinceCode": "80",
+        "nameTH": "ฉวาง",
+        "nameEN": "Chawang"
+    },
+    {
+        "code": "8005",
+        "provinceCode": "80",
+        "nameTH": "พิปูน",
+        "nameEN": "Phipun"
+    },
+    {
+        "code": "8006",
+        "provinceCode": "80",
+        "nameTH": "เชียรใหญ่",
+        "nameEN": "Chian Yai"
+    },
+    {
+        "code": "8007",
+        "provinceCode": "80",
+        "nameTH": "ชะอวด",
+        "nameEN": "Cha-uat"
+    },
+    {
+        "code": "8008",
+        "provinceCode": "80",
+        "nameTH": "ท่าศาลา",
+        "nameEN": "Tha Sala"
+    },
+    {
+        "code": "8009",
+        "provinceCode": "80",
+        "nameTH": "ทุ่งสง",
+        "nameEN": "Thung Song"
+    },
+    {
+        "code": "8010",
+        "provinceCode": "80",
+        "nameTH": "นาบอน",
+        "nameEN": "Na Bon"
+    },
+    {
+        "code": "8011",
+        "provinceCode": "80",
+        "nameTH": "ทุ่งใหญ่",
+        "nameEN": "Thung Yai"
+    },
+    {
+        "code": "8012",
+        "provinceCode": "80",
+        "nameTH": "ปากพนัง",
+        "nameEN": "Pak Phanang"
+    },
+    {
+        "code": "8013",
+        "provinceCode": "80",
+        "nameTH": "ร่อนพิบูลย์",
+        "nameEN": "Ron Phibun"
+    },
+    {
+        "code": "8014",
+        "provinceCode": "80",
+        "nameTH": "สิชล",
+        "nameEN": "Sichon"
+    },
+    {
+        "code": "8015",
+        "provinceCode": "80",
+        "nameTH": "ขนอม",
+        "nameEN": "Khanom"
+    },
+    {
+        "code": "8016",
+        "provinceCode": "80",
+        "nameTH": "หัวไทร",
+        "nameEN": "Hua Sai"
+    },
+    {
+        "code": "8017",
+        "provinceCode": "80",
+        "nameTH": "บางขัน",
+        "nameEN": "Bang Khan"
+    },
+    {
+        "code": "8018",
+        "provinceCode": "80",
+        "nameTH": "ถ้ำพรรณรา",
+        "nameEN": "Tham Phannara"
+    },
+    {
+        "code": "8019",
+        "provinceCode": "80",
+        "nameTH": "จุฬาภรณ์",
+        "nameEN": "Chulabhorn"
+    },
+    {
+        "code": "8020",
+        "provinceCode": "80",
+        "nameTH": "พระพรหม",
+        "nameEN": "Phra Phrom"
+    },
+    {
+        "code": "8021",
+        "provinceCode": "80",
+        "nameTH": "นบพิตำ",
+        "nameEN": "Nopphitam"
+    },
+    {
+        "code": "8022",
+        "provinceCode": "80",
+        "nameTH": "ช้างกลาง",
+        "nameEN": "Chang Klang"
+    },
+    {
+        "code": "8023",
+        "provinceCode": "80",
+        "nameTH": "เฉลิมพระเกียรติ",
+        "nameEN": "Chaloem Phra Kiet"
+    },
+    {
+        "code": "8101",
+        "provinceCode": "81",
+        "nameTH": "เมืองกระบี่",
+        "nameEN": "Mueang Krabi"
+    },
+    {
+        "code": "8102",
+        "provinceCode": "81",
+        "nameTH": "เขาพนม",
+        "nameEN": "Khao Phanom"
+    },
+    {
+        "code": "8103",
+        "provinceCode": "81",
+        "nameTH": "เกาะลันตา",
+        "nameEN": "Ko Lanta"
+    },
+    {
+        "code": "8104",
+        "provinceCode": "81",
+        "nameTH": "คลองท่อม",
+        "nameEN": "Khlong Thom"
+    },
+    {
+        "code": "8105",
+        "provinceCode": "81",
+        "nameTH": "อ่าวลึก",
+        "nameEN": "Ao Luek"
+    },
+    {
+        "code": "8106",
+        "provinceCode": "81",
+        "nameTH": "ปลายพระยา",
+        "nameEN": "Plai Phraya"
+    },
+    {
+        "code": "8107",
+        "provinceCode": "81",
+        "nameTH": "ลำทับ",
+        "nameEN": "Lam Thap"
+    },
+    {
+        "code": "8108",
+        "provinceCode": "81",
+        "nameTH": "เหนือคลอง",
+        "nameEN": "Nuea Khlong"
+    },
+    {
+        "code": "8201",
+        "provinceCode": "82",
+        "nameTH": "เมืองพังงา",
+        "nameEN": "Mueang Phang-nga"
+    },
+    {
+        "code": "8202",
+        "provinceCode": "82",
+        "nameTH": "เกาะยาว",
+        "nameEN": "Ko Yao"
+    },
+    {
+        "code": "8203",
+        "provinceCode": "82",
+        "nameTH": "กะปง",
+        "nameEN": "Kapong"
+    },
+    {
+        "code": "8204",
+        "provinceCode": "82",
+        "nameTH": "ตะกั่วทุ่ง",
+        "nameEN": "Takua Thung"
+    },
+    {
+        "code": "8205",
+        "provinceCode": "82",
+        "nameTH": "ตะกั่วป่า",
+        "nameEN": "Takua Pa"
+    },
+    {
+        "code": "8206",
+        "provinceCode": "82",
+        "nameTH": "คุระบุรี",
+        "nameEN": "Khura Buri"
+    },
+    {
+        "code": "8207",
+        "provinceCode": "82",
+        "nameTH": "ทับปุด",
+        "nameEN": "Thap Put"
+    },
+    {
+        "code": "8208",
+        "provinceCode": "82",
+        "nameTH": "ท้ายเหมือง",
+        "nameEN": "Thai Mueang"
+    },
+    {
+        "code": "8301",
+        "provinceCode": "83",
+        "nameTH": "เมืองภูเก็ต",
+        "nameEN": "Mueang Phuket"
+    },
+    {
+        "code": "8302",
+        "provinceCode": "83",
+        "nameTH": "กะทู้",
+        "nameEN": "Kathu"
+    },
+    {
+        "code": "8303",
+        "provinceCode": "83",
+        "nameTH": "ถลาง",
+        "nameEN": "Thalang"
+    },
+    {
+        "code": "8401",
+        "provinceCode": "84",
+        "nameTH": "เมืองสุราษฎร์ธานี",
+        "nameEN": "Mueang Surat Thani"
+    },
+    {
+        "code": "8402",
+        "provinceCode": "84",
+        "nameTH": "กาญจนดิษฐ์",
+        "nameEN": "Kanchanadit"
+    },
+    {
+        "code": "8403",
+        "provinceCode": "84",
+        "nameTH": "ดอนสัก",
+        "nameEN": "Don Sak"
+    },
+    {
+        "code": "8404",
+        "provinceCode": "84",
+        "nameTH": "เกาะสมุย",
+        "nameEN": "Ko Samui"
+    },
+    {
+        "code": "8405",
+        "provinceCode": "84",
+        "nameTH": "เกาะพะงัน",
+        "nameEN": "Ko Pha-ngan"
+    },
+    {
+        "code": "8406",
+        "provinceCode": "84",
+        "nameTH": "ไชยา",
+        "nameEN": "Chaiya"
+    },
+    {
+        "code": "8407",
+        "provinceCode": "84",
+        "nameTH": "ท่าชนะ",
+        "nameEN": "Tha Chana"
+    },
+    {
+        "code": "8408",
+        "provinceCode": "84",
+        "nameTH": "คีรีรัฐนิคม",
+        "nameEN": "Khiri Rat Nikhom"
+    },
+    {
+        "code": "8409",
+        "provinceCode": "84",
+        "nameTH": "บ้านตาขุน",
+        "nameEN": "Ban Ta Khun"
+    },
+    {
+        "code": "8410",
+        "provinceCode": "84",
+        "nameTH": "พนม",
+        "nameEN": "Phanom"
+    },
+    {
+        "code": "8411",
+        "provinceCode": "84",
+        "nameTH": "ท่าฉาง",
+        "nameEN": "Tha Chang"
+    },
+    {
+        "code": "8412",
+        "provinceCode": "84",
+        "nameTH": "บ้านนาสาร",
+        "nameEN": "Ban Na San"
+    },
+    {
+        "code": "8413",
+        "provinceCode": "84",
+        "nameTH": "บ้านนาเดิม",
+        "nameEN": "Ban Na Doem"
+    },
+    {
+        "code": "8414",
+        "provinceCode": "84",
+        "nameTH": "เคียนซา",
+        "nameEN": "Khian Sa"
+    },
+    {
+        "code": "8415",
+        "provinceCode": "84",
+        "nameTH": "เวียงสระ",
+        "nameEN": "Wiang Sa"
+    },
+    {
+        "code": "8416",
+        "provinceCode": "84",
+        "nameTH": "พระแสง",
+        "nameEN": "Phrasaeng"
+    },
+    {
+        "code": "8417",
+        "provinceCode": "84",
+        "nameTH": "พุนพิน",
+        "nameEN": "Phunphin"
+    },
+    {
+        "code": "8418",
+        "provinceCode": "84",
+        "nameTH": "ชัยบุรี",
+        "nameEN": "Chai Buri"
+    },
+    {
+        "code": "8419",
+        "provinceCode": "84",
+        "nameTH": "วิภาวดี",
+        "nameEN": "Chai Buri"
+    },
+    {
+        "code": "8501",
+        "provinceCode": "85",
+        "nameTH": "เมืองระนอง",
+        "nameEN": "Mueang Ranong"
+    },
+    {
+        "code": "8502",
+        "provinceCode": "85",
+        "nameTH": "ละอุ่น",
+        "nameEN": "La-un"
+    },
+    {
+        "code": "8503",
+        "provinceCode": "85",
+        "nameTH": "กะเปอร์",
+        "nameEN": "Papoe"
+    },
+    {
+        "code": "8504",
+        "provinceCode": "85",
+        "nameTH": "กระบุรี",
+        "nameEN": "Kra Buri"
+    },
+    {
+        "code": "8505",
+        "provinceCode": "85",
+        "nameTH": "สุขสำราญ",
+        "nameEN": "Suk Samran"
+    },
+    {
+        "code": "8601",
+        "provinceCode": "86",
+        "nameTH": "เมืองชุมพร",
+        "nameEN": "Mueang Chumphon"
+    },
+    {
+        "code": "8602",
+        "provinceCode": "86",
+        "nameTH": "ท่าแซะ",
+        "nameEN": "Tha Sae"
+    },
+    {
+        "code": "8603",
+        "provinceCode": "86",
+        "nameTH": "ปะทิว",
+        "nameEN": "Pathio"
+    },
+    {
+        "code": "8604",
+        "provinceCode": "86",
+        "nameTH": "หลังสวน",
+        "nameEN": "Lang Suan"
+    },
+    {
+        "code": "8605",
+        "provinceCode": "86",
+        "nameTH": "ละแม",
+        "nameEN": "Lamae"
+    },
+    {
+        "code": "8606",
+        "provinceCode": "86",
+        "nameTH": "พะโต๊ะ",
+        "nameEN": "Phato"
+    },
+    {
+        "code": "8607",
+        "provinceCode": "86",
+        "nameTH": "สวี",
+        "nameEN": "Sawi"
+    },
+    {
+        "code": "8608",
+        "provinceCode": "86",
+        "nameTH": "ทุ่งตะโก",
+        "nameEN": "Thung Tako"
+    },
+    {
+        "code": "9001",
+        "provinceCode": "90",
+        "nameTH": "เมืองสงขลา",
+        "nameEN": "Muaeng Songkhla"
+    },
+    {
+        "code": "9002",
+        "provinceCode": "90",
+        "nameTH": "กระแสสินธุ์",
+        "nameEN": "Krasae Sin"
+    },
+    {
+        "code": "9003",
+        "provinceCode": "90",
+        "nameTH": "ควนเนียง",
+        "nameEN": "Khuan Niang"
+    },
+    {
+        "code": "9004",
+        "provinceCode": "90",
+        "nameTH": "คลองหอยโข่ง",
+        "nameEN": "Khlong Hoi Khong"
+    },
+    {
+        "code": "9005",
+        "provinceCode": "90",
+        "nameTH": "จะนะ",
+        "nameEN": "Chana"
+    },
+    {
+        "code": "9006",
+        "provinceCode": "90",
+        "nameTH": "เทพา",
+        "nameEN": "Thepha"
+    },
+    {
+        "code": "9007",
+        "provinceCode": "90",
+        "nameTH": "นาทวี",
+        "nameEN": "Na Thawi"
+    },
+    {
+        "code": "9008",
+        "provinceCode": "90",
+        "nameTH": "นาหม่อม",
+        "nameEN": "Na Mom"
+    },
+    {
+        "code": "9009",
+        "provinceCode": "90",
+        "nameTH": "บางกล่ำ",
+        "nameEN": "Bang Klam"
+    },
+    {
+        "code": "9010",
+        "provinceCode": "90",
+        "nameTH": "ระโนด",
+        "nameEN": "Ranot"
+    },
+    {
+        "code": "9011",
+        "provinceCode": "90",
+        "nameTH": "รัตภูมิ",
+        "nameEN": "Rattaphum"
+    },
+    {
+        "code": "9012",
+        "provinceCode": "90",
+        "nameTH": "สทิงพระ",
+        "nameEN": "Sathing Phra"
+    },
+    {
+        "code": "9013",
+        "provinceCode": "90",
+        "nameTH": "สะเดา",
+        "nameEN": "Sadao"
+    },
+    {
+        "code": "9014",
+        "provinceCode": "90",
+        "nameTH": "สะบ้าย้อย",
+        "nameEN": "Saba Yoi"
+    },
+    {
+        "code": "9015",
+        "provinceCode": "90",
+        "nameTH": "สิงหนคร",
+        "nameEN": "Singhanakhon"
+    },
+    {
+        "code": "9016",
+        "provinceCode": "90",
+        "nameTH": "หาดใหญ่",
+        "nameEN": "Hat Yai"
+    },
+    {
+        "code": "9101",
+        "provinceCode": "91",
+        "nameTH": "เมืองสตูล",
+        "nameEN": "Mueang Satun"
+    },
+    {
+        "code": "9102",
+        "provinceCode": "91",
+        "nameTH": "ควนโดน",
+        "nameEN": "Khuan Don"
+    },
+    {
+        "code": "9103",
+        "provinceCode": "91",
+        "nameTH": "ควนกาหลง",
+        "nameEN": "Khuan Kalong"
+    },
+    {
+        "code": "9104",
+        "provinceCode": "91",
+        "nameTH": "ท่าแพ",
+        "nameEN": "Tha Phae"
+    },
+    {
+        "code": "9105",
+        "provinceCode": "91",
+        "nameTH": "ละงู",
+        "nameEN": "La-ngu"
+    },
+    {
+        "code": "9106",
+        "provinceCode": "91",
+        "nameTH": "ทุ่งหว้า",
+        "nameEN": "Thung  Wa"
+    },
+    {
+        "code": "9107",
+        "provinceCode": "91",
+        "nameTH": "มะนัง",
+        "nameEN": "Manang"
+    },
+    {
+        "code": "9201",
+        "provinceCode": "92",
+        "nameTH": "เมืองตรัง",
+        "nameEN": "Mueang Trang"
+    },
+    {
+        "code": "9202",
+        "provinceCode": "92",
+        "nameTH": "กันตัง",
+        "nameEN": "Kantang"
+    },
+    {
+        "code": "9203",
+        "provinceCode": "92",
+        "nameTH": "ย่านตาขาว",
+        "nameEN": "Yan Ta Khao"
+    },
+    {
+        "code": "9204",
+        "provinceCode": "92",
+        "nameTH": "ปะเหลียน",
+        "nameEN": "Palian"
+    },
+    {
+        "code": "9205",
+        "provinceCode": "92",
+        "nameTH": "สิเกา",
+        "nameEN": "Sikao"
+    },
+    {
+        "code": "9206",
+        "provinceCode": "92",
+        "nameTH": "ห้วยยอด",
+        "nameEN": "Huai Yot"
+    },
+    {
+        "code": "9207",
+        "provinceCode": "92",
+        "nameTH": "วังวิเศษ",
+        "nameEN": "Wang Wiset"
+    },
+    {
+        "code": "9208",
+        "provinceCode": "92",
+        "nameTH": "นาโยง",
+        "nameEN": "Na Yong"
+    },
+    {
+        "code": "9209",
+        "provinceCode": "92",
+        "nameTH": "รัษฎา",
+        "nameEN": "Ratsada"
+    },
+    {
+        "code": "9210",
+        "provinceCode": "92",
+        "nameTH": "หาดสำราญ",
+        "nameEN": "Hat Samran"
+    },
+    {
+        "code": "9301",
+        "provinceCode": "93",
+        "nameTH": "เมืองพัทลุง",
+        "nameEN": "Mueang Phatthalung"
+    },
+    {
+        "code": "9302",
+        "provinceCode": "93",
+        "nameTH": "กงหรา",
+        "nameEN": "Kong Ra"
+    },
+    {
+        "code": "9303",
+        "provinceCode": "93",
+        "nameTH": "เขาชัยสน",
+        "nameEN": "Khao Chaison"
+    },
+    {
+        "code": "9304",
+        "provinceCode": "93",
+        "nameTH": "ตะโหมด",
+        "nameEN": "Tamot"
+    },
+    {
+        "code": "9305",
+        "provinceCode": "93",
+        "nameTH": "ควนขนุน",
+        "nameEN": "Khuan Khanun"
+    },
+    {
+        "code": "9306",
+        "provinceCode": "93",
+        "nameTH": "ปากพะยูน",
+        "nameEN": "Pak Phayun"
+    },
+    {
+        "code": "9307",
+        "provinceCode": "93",
+        "nameTH": "ศรีบรรพต",
+        "nameEN": "Si Banphot"
+    },
+    {
+        "code": "9308",
+        "provinceCode": "93",
+        "nameTH": "ป่าบอน",
+        "nameEN": "Pa Bon"
+    },
+    {
+        "code": "9309",
+        "provinceCode": "93",
+        "nameTH": "บางแก้ว",
+        "nameEN": "Bang Kaeo"
+    },
+    {
+        "code": "9310",
+        "provinceCode": "93",
+        "nameTH": "ป่าพะยอม",
+        "nameEN": "Pa Phayom"
+    },
+    {
+        "code": "9311",
+        "provinceCode": "93",
+        "nameTH": "ศรีนครินทร์",
+        "nameEN": "Srinagarindra"
+    },
+    {
+        "code": "9401",
+        "provinceCode": "94",
+        "nameTH": "เมืองปัตตานี",
+        "nameEN": "Mueang Pattani"
+    },
+    {
+        "code": "9402",
+        "provinceCode": "94",
+        "nameTH": "โคกโพธิ์",
+        "nameEN": "Khok Pho"
+    },
+    {
+        "code": "9403",
+        "provinceCode": "94",
+        "nameTH": "หนองจิก",
+        "nameEN": "Nong Chik"
+    },
+    {
+        "code": "9404",
+        "provinceCode": "94",
+        "nameTH": "ปะนาเระ",
+        "nameEN": "Panare"
+    },
+    {
+        "code": "9405",
+        "provinceCode": "94",
+        "nameTH": "มายอ",
+        "nameEN": "Mayo"
+    },
+    {
+        "code": "9406",
+        "provinceCode": "94",
+        "nameTH": "ทุ่งยางแดง",
+        "nameEN": "Thung Yang Daeng"
+    },
+    {
+        "code": "9407",
+        "provinceCode": "94",
+        "nameTH": "สายบุรี",
+        "nameEN": "Sai Buri"
+    },
+    {
+        "code": "9408",
+        "provinceCode": "94",
+        "nameTH": "ไม้แก่น",
+        "nameEN": "Mai Kaen"
+    },
+    {
+        "code": "9409",
+        "provinceCode": "94",
+        "nameTH": "ยะหริ่ง",
+        "nameEN": "Yaring"
+    },
+    {
+        "code": "9410",
+        "provinceCode": "94",
+        "nameTH": "ยะรัง",
+        "nameEN": "Yarang"
+    },
+    {
+        "code": "9411",
+        "provinceCode": "94",
+        "nameTH": "กะพ้อ",
+        "nameEN": "Kapho"
+    },
+    {
+        "code": "9412",
+        "provinceCode": "94",
+        "nameTH": "แม่ลาน",
+        "nameEN": "Mae Lan"
+    },
+    {
+        "code": "9501",
+        "provinceCode": "95",
+        "nameTH": "เมืองยะลา",
+        "nameEN": "Mueang Yala"
+    },
+    {
+        "code": "9502",
+        "provinceCode": "95",
+        "nameTH": "เบตง",
+        "nameEN": "Betong"
+    },
+    {
+        "code": "9503",
+        "provinceCode": "95",
+        "nameTH": "บันนังสตา",
+        "nameEN": "Bannang Sata"
+    },
+    {
+        "code": "9504",
+        "provinceCode": "95",
+        "nameTH": "ธารโต",
+        "nameEN": "Than To"
+    },
+    {
+        "code": "9505",
+        "provinceCode": "95",
+        "nameTH": "ยะหา",
+        "nameEN": "Yaha"
+    },
+    {
+        "code": "9506",
+        "provinceCode": "95",
+        "nameTH": "รามัน",
+        "nameEN": "Raman"
+    },
+    {
+        "code": "9507",
+        "provinceCode": "95",
+        "nameTH": "กาบัง",
+        "nameEN": "Kabang"
+    },
+    {
+        "code": "9508",
+        "provinceCode": "95",
+        "nameTH": "กรงปีนัง",
+        "nameEN": "Krong Pinang"
+    },
+    {
+        "code": "9601",
+        "provinceCode": "96",
+        "nameTH": "เมืองนราธิวาส",
+        "nameEN": "Mueang Narathiwat"
+    },
+    {
+        "code": "9602",
+        "provinceCode": "96",
+        "nameTH": "ตากใบ",
+        "nameEN": "Tak Bai"
+    },
+    {
+        "code": "9603",
+        "provinceCode": "96",
+        "nameTH": "บาเจาะ",
+        "nameEN": "Tak Bai"
+    },
+    {
+        "code": "9604",
+        "provinceCode": "96",
+        "nameTH": "ยี่งอ",
+        "nameEN": "Yi-ngo"
+    },
+    {
+        "code": "9605",
+        "provinceCode": "96",
+        "nameTH": "ระแงะ",
+        "nameEN": "Ra-ngae"
+    },
+    {
+        "code": "9606",
+        "provinceCode": "96",
+        "nameTH": "รือเสาะ",
+        "nameEN": "Rueso"
+    },
+    {
+        "code": "9607",
+        "provinceCode": "96",
+        "nameTH": "ศรีสาคร",
+        "nameEN": "Si Sakhon"
+    },
+    {
+        "code": "9608",
+        "provinceCode": "96",
+        "nameTH": "แว้ง",
+        "nameEN": "Waeng"
+    },
+    {
+        "code": "9609",
+        "provinceCode": "96",
+        "nameTH": "สุคิริน",
+        "nameEN": "Sukhirin"
+    },
+    {
+        "code": "9610",
+        "provinceCode": "96",
+        "nameTH": "สุไหงโก-ลก",
+        "nameEN": "Su-ngai Kolok"
+    },
+    {
+        "code": "9611",
+        "provinceCode": "96",
+        "nameTH": "สุไหงปาดี",
+        "nameEN": "Su-ngai Padi"
+    },
+    {
+        "code": "9612",
+        "provinceCode": "96",
+        "nameTH": "จะแนะ",
+        "nameEN": "Chanae"
+    },
+    {
+        "code": "9613",
+        "provinceCode": "96",
+        "nameTH": "เจาะไอร้อง",
+        "nameEN": "Cho-airong"
+    }
+]
