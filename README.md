@@ -14,6 +14,9 @@ Sarinthon Mangkorn-ngam (Collect data, review and export each format)
 Lalinda Mangkorn-ngam (Send necessary data for Thailand address)
 
 ## Changelog
+#### 1.0.1/13-08-2022
+- Edit header field for zipcode
+
 #### 1.0.0/12-08-2022
 
 - Publish Thailand address in Excel, CSV and  JSON format
